@@ -1,6 +1,6 @@
 ---
 title: Fair Lawn
 url: /fair-lawn/
-latitude: 40.9403762
-longitude: -74.13180960000001
+latitude: 40.9397796
+longitude: -74.1312504
 ---
