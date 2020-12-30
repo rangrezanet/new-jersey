@@ -1,4 +1,4 @@
 ---
-title: "Lowes"
+title: "Lowe's"
 url: /hillsborough/lowes/
 ---
