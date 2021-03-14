@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /toms-river/walmart/
-shop: supermarket
+shop: department store
 ---
