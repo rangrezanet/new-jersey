@@ -1,5 +1,5 @@
 ---
 title: "The Container Store"
 url: /bound-brook/the-container-store/
-shop: furniture
+shop: houseware
 ---
