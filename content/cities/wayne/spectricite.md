@@ -1,5 +1,5 @@
 ---
 title: "Spectricite"
 url: /wayne/spectricite/
-shop: shop
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picture People"
 url: /wayne/picture-people/
-shop: shop
+shop: photo
 ---
