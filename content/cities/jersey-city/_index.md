@@ -1,6 +1,6 @@
 ---
 title: Jersey City
 url: /jersey-city/
-latitude: 40.7281575
-longitude: -74.0776417
+latitude: 40.7215682
+longitude: -74.047455
 ---
