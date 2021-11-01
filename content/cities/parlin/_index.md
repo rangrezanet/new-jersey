@@ -1,6 +1,6 @@
 ---
 title: Parlin
 url: /parlin/
-latitude: 40.4620504
-longitude: -74.33820370000001
+latitude: 40.4628177
+longitude: -74.31050180000001
 ---

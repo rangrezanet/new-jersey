@@ -1,6 +1,6 @@
 ---
 title: Howell
 url: /howell/
-latitude: 40.165910100000005
-longitude: -74.19115880000001
+latitude: 40.1413032
+longitude: -74.2236618
 ---

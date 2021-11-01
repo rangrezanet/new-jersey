@@ -1,11 +1,11 @@
-id: 5740274855
-type: node
-latitude: 40.496340700000005
-longitude: -74.4112532
+id: 204706637
+type: way
+latitude: 40.498071
+longitude: -74.4093807
 postcode: "08817"
 city: Edison
-street: "US HIGHWAY 1"
+street: "US-1"
 housenumber: 50
-phone: "7322349128"
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-20:00"
-website: "https://www.openroadhonda.com/"
+phone: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+website: ""
