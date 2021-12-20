@@ -1,5 +1,5 @@
 ---
-title: "SEVA Beauty"
+title: "Seva Beauty"
 url: /wayne/seva-beauty/
 shop: beauty
 ---
