@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /newark/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

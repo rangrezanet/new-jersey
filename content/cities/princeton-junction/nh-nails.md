@@ -1,5 +1,5 @@
 ---
 title: "NH Nails"
 url: /princeton-junction/nh-nails/
-shop: beauty
+shop: Kosmetik
 ---

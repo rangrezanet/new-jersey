@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /deptford/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

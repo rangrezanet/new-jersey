@@ -1,5 +1,5 @@
 ---
 title: "Shaken N Stirred"
 url: /phillipsburg/shaken-n-stirred/
-shop: alcohol
+shop: Spirituosen
 ---

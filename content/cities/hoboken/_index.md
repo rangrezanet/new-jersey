@@ -1,6 +1,6 @@
 ---
 title: Hoboken
 url: /hoboken/
-latitude: 40.743306600000004
-longitude: -74.0323752
+latitude: 40.737
+longitude: -74.031
 ---

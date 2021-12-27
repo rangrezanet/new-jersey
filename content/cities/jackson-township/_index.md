@@ -1,6 +1,6 @@
 ---
 title: Jackson Township
 url: /jackson-township/
-latitude: 
-longitude: 
+latitude: 40.148
+longitude: -74.344
 ---

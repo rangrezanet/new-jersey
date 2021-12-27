@@ -1,6 +1,6 @@
 ---
 title: Monroe Township
 url: /monroe-township/
-latitude: 
-longitude: 
+latitude: 40.361
+longitude: -74.468
 ---

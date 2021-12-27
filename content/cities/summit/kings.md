@@ -1,5 +1,5 @@
 ---
 title: "Kings"
 url: /summit/kings/
-shop: supermarket
+shop: Supermarkt
 ---

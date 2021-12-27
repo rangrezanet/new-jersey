@@ -1,6 +1,6 @@
 ---
 title: Oaklyn
 url: /oaklyn/
-latitude: 39.9009465
-longitude: -75.0846179
+latitude: 39.9
+longitude: -75.075
 ---

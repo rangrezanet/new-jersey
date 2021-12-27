@@ -1,6 +1,6 @@
 ---
 title: Upper Saddle River
 url: /upper-saddle-river/
-latitude: 41.0584299
-longitude: -74.0984756
+latitude: 41.047
+longitude: -74.116
 ---

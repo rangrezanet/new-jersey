@@ -1,5 +1,5 @@
 ---
 title: "Kiora Nail Spa"
 url: /marlton/kiora-nail-spa/
-shop: beauty
+shop: Kosmetik
 ---

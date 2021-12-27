@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /linden/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

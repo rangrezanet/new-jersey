@@ -1,6 +1,6 @@
 ---
 title: Iselin
 url: /iselin/
-latitude: 40.5753817
-longitude: -74.3223703
+latitude: 40.561
+longitude: -74.302
 ---

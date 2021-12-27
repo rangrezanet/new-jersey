@@ -1,6 +1,6 @@
 ---
 title: Collingswood
 url: /collingswood/
-latitude: 39.9181686
-longitude: -75.071284
+latitude: 39.921
+longitude: -75.09
 ---

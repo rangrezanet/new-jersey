@@ -1,6 +1,6 @@
 ---
 title: Stafford Township
 url: /stafford-township/
-latitude: 39.711465100000005
-longitude: -74.2779616
+latitude: 39.69
+longitude: -74.248
 ---

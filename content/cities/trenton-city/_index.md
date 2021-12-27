@@ -1,6 +1,6 @@
 ---
 title: Trenton city
 url: /trenton-city/
-latitude: 
-longitude: 
+latitude: 40.238
+longitude: -74.74
 ---

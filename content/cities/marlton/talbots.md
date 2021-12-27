@@ -1,5 +1,5 @@
 ---
 title: "Talbots"
 url: /marlton/talbots/
-shop: clothes
+shop: Kleidung
 ---

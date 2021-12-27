@@ -1,5 +1,5 @@
 ---
 title: "Bloomers"
 url: /chatham/bloomers/
-shop: florist
+shop: Blumen
 ---

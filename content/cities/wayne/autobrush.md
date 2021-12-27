@@ -1,5 +1,5 @@
 ---
 title: "Autobrush"
 url: /wayne/autobrush/
-shop: shop
+shop: Allgemein
 ---

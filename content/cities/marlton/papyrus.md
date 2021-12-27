@@ -1,5 +1,5 @@
 ---
 title: "Papyrus"
 url: /marlton/papyrus/
-shop: clothes
+shop: Kleidung
 ---

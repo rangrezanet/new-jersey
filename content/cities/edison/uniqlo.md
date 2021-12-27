@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /edison/uniqlo/
-shop: clothes
+shop: Kleidung
 ---

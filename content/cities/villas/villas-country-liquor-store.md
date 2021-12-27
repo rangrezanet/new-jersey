@@ -1,5 +1,5 @@
 ---
 title: "Villas Country Liquor Store"
 url: /villas/villas-country-liquor-store/
-shop: alcohol
+shop: Spirituosen
 ---

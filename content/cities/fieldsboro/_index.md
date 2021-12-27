@@ -1,6 +1,6 @@
 ---
 title: Fieldsboro
 url: /fieldsboro/
-latitude: 40.1364991
-longitude: -74.7287714
+latitude: 40.176
+longitude: -74.702
 ---

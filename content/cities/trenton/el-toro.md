@@ -1,5 +1,5 @@
 ---
 title: "El Toro"
 url: /trenton/el-toro/
-shop: convenience
+shop: Lebensmittel
 ---

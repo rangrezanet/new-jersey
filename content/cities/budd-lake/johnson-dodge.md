@@ -1,5 +1,5 @@
 ---
 title: "Johnson Dodge"
 url: /budd-lake/johnson-dodge/
-shop: car
+shop: Autohaus
 ---

@@ -1,6 +1,6 @@
 ---
 title: Princeton Junction
 url: /princeton-junction/
-latitude: 40.3173301
-longitude: -74.6198791
+latitude: 40.259
+longitude: -74.616
 ---

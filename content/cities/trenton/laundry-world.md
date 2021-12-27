@@ -1,5 +1,5 @@
 ---
 title: "Laundry World"
 url: /trenton/laundry-world/
-shop: laundry
+shop: Wäscherei
 ---

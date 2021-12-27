@@ -1,6 +1,6 @@
 ---
 title: Pennsauken Township
 url: /pennsauken-township/
-latitude: 
-longitude: 
+latitude: 39.939
+longitude: -75.092
 ---

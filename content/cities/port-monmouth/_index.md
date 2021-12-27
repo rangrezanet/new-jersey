@@ -1,6 +1,6 @@
 ---
 title: Port Monmouth
 url: /port-monmouth/
-latitude: 40.430108000000004
-longitude: -74.09847450000001
+latitude: 40.424
+longitude: -74.102
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /cedar-knolls/walmart/
-shop: supermarket
+shop: Supermarkt
 ---

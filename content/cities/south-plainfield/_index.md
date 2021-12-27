@@ -1,6 +1,6 @@
 ---
 title: South Plainfield
 url: /south-plainfield/
-latitude: 40.5792701
-longitude: -74.41154010000001
+latitude: 40.551
+longitude: -74.429
 ---

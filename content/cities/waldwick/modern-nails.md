@@ -1,5 +1,5 @@
 ---
 title: "Modern Nails"
 url: /waldwick/modern-nails/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /lincoln-park/supercuts/
-shop: hairdresser
+shop: Friseur
 ---

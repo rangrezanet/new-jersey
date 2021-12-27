@@ -1,5 +1,5 @@
 ---
 title: "Trenton Organics"
 url: /trenton/trenton-organics/
-shop: garden centre
+shop: Garten-Center
 ---

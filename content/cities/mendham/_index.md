@@ -1,6 +1,6 @@
 ---
 title: Mendham
 url: /mendham/
-latitude: 40.7759334
-longitude: -74.6007142
+latitude: 40.785
+longitude: -74.588
 ---

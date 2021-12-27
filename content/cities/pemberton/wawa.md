@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /pemberton/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

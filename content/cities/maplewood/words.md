@@ -1,5 +1,5 @@
 ---
 title: "[words]"
 url: /maplewood/words/
-shop: books
+shop: Bücher
 ---

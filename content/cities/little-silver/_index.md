@@ -1,6 +1,6 @@
 ---
 title: Little Silver
 url: /little-silver/
-latitude: 40.336776900000004
-longitude: -74.0470837
+latitude: 40.339
+longitude: -74.04
 ---

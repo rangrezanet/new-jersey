@@ -1,6 +1,6 @@
 ---
 title: Summit
 url: /summit/
-latitude: 40.7182356
-longitude: -74.3592296
+latitude: 40.717
+longitude: -74.357
 ---

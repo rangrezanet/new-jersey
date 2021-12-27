@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /wayne/sephora/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moge Tee"
 url: /jersey-city/moge-tee/
-shop: tea
+shop: Tee
 ---

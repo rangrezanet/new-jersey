@@ -1,6 +1,6 @@
 ---
 title: Allendale
 url: /allendale/
-latitude: 41.041485800000004
-longitude: -74.12903200000001
+latitude: 41.031
+longitude: -74.129
 ---

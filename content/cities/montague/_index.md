@@ -1,6 +1,6 @@
 ---
 title: Montague
 url: /montague/
-latitude: 41.3031498
-longitude: -74.79349930000001
+latitude: 41.351
+longitude: -74.684
 ---

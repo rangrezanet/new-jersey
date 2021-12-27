@@ -1,5 +1,5 @@
 ---
 title: "JVC"
 url: /wayne/jvc/
-shop: shop
+shop: Allgemein
 ---

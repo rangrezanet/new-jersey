@@ -1,5 +1,5 @@
 ---
 title: "Villa's Tuxedos"
 url: /manville/villas-tuxedos/
-shop: clothes
+shop: Kleidung
 ---

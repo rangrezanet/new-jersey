@@ -1,5 +1,5 @@
 ---
 title: "Motion Kia"
 url: /hackettstown/motion-kia/
-shop: car
+shop: Autohaus
 ---

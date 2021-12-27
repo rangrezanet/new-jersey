@@ -1,6 +1,6 @@
 ---
 title: Pittstown
 url: /pittstown/
-latitude: 40.5821362
-longitude: -74.9589826
+latitude: 40.582
+longitude: -74.959
 ---

@@ -1,6 +1,6 @@
 ---
 title: Elmwood Park
 url: /elmwood-park/
-latitude: 40.9074237
-longitude: -74.11835430000001
+latitude: 40.905
+longitude: -74.127
 ---

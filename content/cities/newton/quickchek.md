@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /newton/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

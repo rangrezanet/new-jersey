@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /bayville/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Absecon
 url: /absecon/
-latitude: 39.4284503
-longitude: -74.4957076
+latitude: 39.433
+longitude: -74.513
 ---

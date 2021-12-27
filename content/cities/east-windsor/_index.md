@@ -1,6 +1,6 @@
 ---
 title: East Windsor
 url: /east-windsor/
-latitude: 
-longitude: 
+latitude: 40.253
+longitude: -74.553
 ---

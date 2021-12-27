@@ -1,6 +1,6 @@
 ---
 title: Berkeley Heights
 url: /berkeley-heights/
-latitude: 40.6834349
-longitude: -74.442653
+latitude: 40.689
+longitude: -74.435
 ---

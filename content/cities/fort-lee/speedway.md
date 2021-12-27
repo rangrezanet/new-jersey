@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /fort-lee/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

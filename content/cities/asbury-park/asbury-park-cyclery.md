@@ -1,5 +1,5 @@
 ---
 title: "Asbury Park Cyclery"
 url: /asbury-park/asbury-park-cyclery/
-shop: bicycle
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
 url: /east-brunswick/verizon/
-shop: mobile phone
+shop: Handy
 ---

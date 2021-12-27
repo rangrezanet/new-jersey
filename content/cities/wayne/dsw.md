@@ -1,5 +1,5 @@
 ---
 title: "DSW"
 url: /wayne/dsw/
-shop: shoes
+shop: Schuhe
 ---

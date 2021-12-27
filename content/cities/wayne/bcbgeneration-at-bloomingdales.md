@@ -1,5 +1,5 @@
 ---
 title: "BCBGeneration at Bloomingdales"
 url: /wayne/bcbgeneration-at-bloomingdales/
-shop: clothes
+shop: Kleidung
 ---

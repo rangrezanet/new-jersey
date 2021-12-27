@@ -1,6 +1,6 @@
 ---
 title: Hillsborough Township
 url: /hillsborough-township/
-latitude: 40.5052296
-longitude: -74.6732941
+latitude: 40.502
+longitude: -74.648
 ---

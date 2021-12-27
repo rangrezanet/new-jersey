@@ -1,6 +1,6 @@
 ---
 title: Eatontown
 url: /eatontown/
-latitude: 40.2962222
-longitude: -74.0509725
+latitude: 40.303
+longitude: -74.058
 ---

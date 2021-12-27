@@ -1,6 +1,6 @@
 ---
 title: Palisades Park
 url: /palisades-park/
-latitude: 40.848155600000005
-longitude: -73.997639
+latitude: 40.843
+longitude: -74.001
 ---

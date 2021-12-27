@@ -1,6 +1,6 @@
 ---
 title: Byram
 url: /byram/
-latitude: 40.4237156
-longitude: -75.05961500000001
+latitude: 40.931
+longitude: -74.718
 ---

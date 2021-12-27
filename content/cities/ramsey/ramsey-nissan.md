@@ -1,5 +1,5 @@
 ---
 title: "Ramsey Nissan"
 url: /ramsey/ramsey-nissan/
-shop: car
+shop: Autohaus
 ---

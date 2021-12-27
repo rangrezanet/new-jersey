@@ -1,6 +1,6 @@
 ---
 title: Fanwood
 url: /fanwood/
-latitude: 40.6409041
-longitude: -74.3836416
+latitude: 40.636
+longitude: -74.391
 ---

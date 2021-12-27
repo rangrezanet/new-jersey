@@ -1,5 +1,5 @@
 ---
 title: "Zoom"
 url: /summit/zoom/
-shop: toys
+shop: Spielzeug
 ---

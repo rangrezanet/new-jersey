@@ -1,5 +1,5 @@
 ---
 title: "Joe Food Mart"
 url: /alpha/joe-food-mart/
-shop: convenience
+shop: Lebensmittel
 ---

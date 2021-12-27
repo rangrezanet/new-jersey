@@ -1,5 +1,5 @@
 ---
 title: "Snipes"
 url: /trenton/snipes/
-shop: shoes
+shop: Schuhe
 ---

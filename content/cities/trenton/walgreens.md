@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /trenton/walgreens/
-shop: chemist
+shop: Drogerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Scrubology"
 url: /wayne/scrubology/
-shop: clothes
+shop: Kleidung
 ---

@@ -1,6 +1,6 @@
 ---
 title: Holmdel Township
 url: /holmdel-township/
-latitude: 
-longitude: 
+latitude: 40.413
+longitude: -74.135
 ---

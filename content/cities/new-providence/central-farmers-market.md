@@ -1,5 +1,5 @@
 ---
 title: "Central Farmers Market"
 url: /new-providence/central-farmers-market/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

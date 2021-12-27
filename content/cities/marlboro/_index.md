@@ -1,6 +1,6 @@
 ---
 title: Marlboro
 url: /marlboro/
-latitude: 40.3153877
-longitude: -74.24625640000001
+latitude: 40.304
+longitude: -74.251
 ---

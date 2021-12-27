@@ -1,6 +1,6 @@
 ---
 title: Pennsville
 url: /pennsville/
-latitude: 39.6534464
-longitude: -75.5165881
+latitude: 39.663
+longitude: -75.511
 ---

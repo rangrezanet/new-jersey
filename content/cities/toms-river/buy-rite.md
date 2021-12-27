@@ -1,5 +1,5 @@
 ---
 title: "Buy Rite"
 url: /toms-river/buy-rite/
-shop: alcohol
+shop: Spirituosen
 ---

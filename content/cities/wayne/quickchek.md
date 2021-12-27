@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /wayne/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Chesilhurst
 url: /chesilhurst/
-latitude: 39.7323384
-longitude: -74.8809966
+latitude: 39.727
+longitude: -74.863
 ---

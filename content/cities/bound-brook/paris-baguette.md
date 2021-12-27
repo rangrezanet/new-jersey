@@ -1,5 +1,5 @@
 ---
 title: "Paris Baguette"
 url: /bound-brook/paris-baguette/
-shop: bakery
+shop: Bäckerei
 ---

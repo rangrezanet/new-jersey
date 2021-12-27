@@ -1,6 +1,6 @@
 ---
 title: Bridgewater Township
 url: /bridgewater-township/
-latitude: 
-longitude: 
+latitude: 40.571
+longitude: -74.586
 ---

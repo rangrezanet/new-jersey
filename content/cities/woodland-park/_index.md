@@ -1,6 +1,6 @@
 ---
 title: Woodland Park
 url: /woodland-park/
-latitude: 40.7028793
-longitude: -74.37876200000001
+latitude: 40.89
+longitude: -74.217
 ---

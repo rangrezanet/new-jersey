@@ -1,6 +1,6 @@
 ---
 title: Caldwell
 url: /caldwell/
-latitude: 40.8398218
-longitude: -74.2765366
+latitude: 40.837
+longitude: -74.274
 ---

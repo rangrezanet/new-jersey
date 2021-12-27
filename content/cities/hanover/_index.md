@@ -1,6 +1,6 @@
 ---
 title: Hanover
 url: /hanover/
-latitude: 40.8174216
-longitude: -74.3954057
+latitude: 40.839
+longitude: -74.437
 ---

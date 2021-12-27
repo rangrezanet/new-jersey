@@ -1,5 +1,5 @@
 ---
 title: "CocoLuxe Fine Pastries"
 url: /peapack/cocoluxe-fine-pastries/
-shop: bakery
+shop: Bäckerei
 ---

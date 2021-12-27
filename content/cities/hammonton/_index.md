@@ -1,6 +1,6 @@
 ---
 title: Hammonton
 url: /hammonton/
-latitude: 39.6365056
-longitude: -74.80238530000001
+latitude: 39.648
+longitude: -74.785
 ---

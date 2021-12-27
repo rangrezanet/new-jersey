@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /bordentown/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

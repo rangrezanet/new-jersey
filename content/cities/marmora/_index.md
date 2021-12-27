@@ -1,6 +1,6 @@
 ---
 title: Marmora
 url: /marmora/
-latitude: 39.266781900000005
-longitude: -74.644881
+latitude: 39.264
+longitude: -74.651
 ---

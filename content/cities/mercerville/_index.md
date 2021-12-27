@@ -1,6 +1,6 @@
 ---
 title: Mercerville
 url: /mercerville/
-latitude: 40.2370535
-longitude: -74.6865477
+latitude: 40.233
+longitude: -74.708
 ---

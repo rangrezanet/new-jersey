@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /lumberton/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

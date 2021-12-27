@@ -1,5 +1,5 @@
 ---
 title: "PUFFCITY WAYNE"
 url: /wayne/puffcity-wayne/
-shop: tobacco
+shop: Tabak
 ---

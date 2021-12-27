@@ -1,6 +1,6 @@
 ---
 title: Flanders
 url: /flanders/
-latitude: 40.8456549
-longitude: -74.6948843
+latitude: 40.884
+longitude: -74.708
 ---

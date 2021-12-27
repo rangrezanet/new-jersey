@@ -1,6 +1,6 @@
 ---
 title: Tenafly
 url: /tenafly/
-latitude: 40.9253766
-longitude: -73.9629154
+latitude: 40.925
+longitude: -73.965
 ---

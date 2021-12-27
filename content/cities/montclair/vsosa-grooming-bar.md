@@ -1,5 +1,5 @@
 ---
 title: "Vsosa Grooming Bar"
 url: /montclair/vsosa-grooming-bar/
-shop: hairdresser
+shop: Friseur
 ---

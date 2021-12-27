@@ -1,5 +1,5 @@
 ---
 title: "bareMinerals"
 url: /wayne/bareminerals/
-shop: beauty
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ewing Laundromat"
 url: /trenton/ewing-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

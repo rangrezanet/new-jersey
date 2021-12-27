@@ -1,5 +1,5 @@
 ---
 title: "Florist"
 url: /voorhees/florist/
-shop: florist
+shop: Blumen
 ---

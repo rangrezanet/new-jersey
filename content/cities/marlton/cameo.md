@@ -1,5 +1,5 @@
 ---
 title: "Cameo"
 url: /marlton/cameo/
-shop: clothes
+shop: Kleidung
 ---

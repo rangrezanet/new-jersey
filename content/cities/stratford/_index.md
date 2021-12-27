@@ -1,6 +1,6 @@
 ---
 title: Stratford
 url: /stratford/
-latitude: 39.8267807
-longitude: -75.0154461
+latitude: 39.832
+longitude: -75.006
 ---

@@ -1,6 +1,6 @@
 ---
 title: Manasquan
 url: /manasquan/
-latitude: 40.126226
-longitude: -74.049304
+latitude: 40.112
+longitude: -74.074
 ---

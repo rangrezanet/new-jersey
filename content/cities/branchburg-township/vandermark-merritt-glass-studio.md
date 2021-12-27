@@ -1,5 +1,5 @@
 ---
 title: "Vandermark Merritt Glass Studio"
 url: /branchburg-township/vandermark-merritt-glass-studio/
-shop: gift
+shop: Andenken
 ---

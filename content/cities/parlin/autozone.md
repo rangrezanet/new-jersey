@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /parlin/autozone/
-shop: car parts
+shop: Autoteile
 ---

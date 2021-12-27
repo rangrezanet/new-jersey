@@ -1,5 +1,5 @@
 ---
 title: "FYE"
 url: /paramus/fye/
-shop: music
+shop: Musik
 ---

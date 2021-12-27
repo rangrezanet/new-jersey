@@ -1,5 +1,5 @@
 ---
 title: "Oliva"
 url: /jersey-city/oliva/
-shop: greengrocer
+shop: Gemüse & Obst
 ---

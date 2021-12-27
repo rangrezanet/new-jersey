@@ -1,6 +1,6 @@
 ---
 title: Hazlet
 url: /hazlet/
-latitude: 40.4292165
-longitude: -74.16489990000001
+latitude: 40.417
+longitude: -74.181
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /sewell/walgreens/
-shop: chemist
+shop: Drogerie
 ---

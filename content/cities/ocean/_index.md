@@ -1,6 +1,6 @@
 ---
 title: Ocean
 url: /ocean/
-latitude: 39.977818
-longitude: -74.3319287
+latitude: 40.24
+longitude: -74.041
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A Touch of Ambiance"
 url: /somerville/a-touch-of-ambiance/
-shop: hairdresser
+shop: Friseur
 ---

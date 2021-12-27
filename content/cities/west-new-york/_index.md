@@ -1,6 +1,6 @@
 ---
 title: West New York
 url: /west-new-york/
-latitude: 
-longitude: 
+latitude: 40.782
+longitude: -74.013
 ---

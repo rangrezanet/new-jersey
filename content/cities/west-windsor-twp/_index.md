@@ -1,6 +1,6 @@
 ---
 title: West windsor twp
 url: /west-windsor-twp/
-latitude: 
-longitude: 
+latitude: 40.309
+longitude: -74.661
 ---

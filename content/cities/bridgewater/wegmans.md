@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /bridgewater/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

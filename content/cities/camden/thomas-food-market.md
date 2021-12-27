@@ -1,5 +1,5 @@
 ---
 title: "Thomas Food Market"
 url: /camden/thomas-food-market/
-shop: convenience
+shop: Lebensmittel
 ---

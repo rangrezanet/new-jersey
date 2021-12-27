@@ -1,6 +1,6 @@
 ---
 title: South Amboy
 url: /south-amboy/
-latitude: 40.4821114
-longitude: -74.28288280000001
+latitude: 40.464
+longitude: -74.298
 ---

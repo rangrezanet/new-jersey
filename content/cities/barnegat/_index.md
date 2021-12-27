@@ -1,6 +1,6 @@
 ---
 title: Barnegat
 url: /barnegat/
-latitude: 
-longitude: 
+latitude: 39.759
+longitude: -74.247
 ---

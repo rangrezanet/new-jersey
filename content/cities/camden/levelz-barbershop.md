@@ -1,5 +1,5 @@
 ---
 title: "Levelz Barbershop"
 url: /camden/levelz-barbershop/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips Haircuts of Wayne"
 url: /wayne/sport-clips-haircuts-of-wayne/
-shop: hairdresser
+shop: Friseur
 ---

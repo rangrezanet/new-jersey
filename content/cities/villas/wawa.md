@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /villas/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

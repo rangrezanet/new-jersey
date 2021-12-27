@@ -1,5 +1,5 @@
 ---
 title: "Sport Clips"
 url: /glassboro/sport-clips/
-shop: hairdresser
+shop: Friseur
 ---

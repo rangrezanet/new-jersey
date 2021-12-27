@@ -1,6 +1,6 @@
 ---
 title: Cranford
 url: /cranford/
-latitude: 40.6584358
-longitude: -74.2995923
+latitude: 40.654
+longitude: -74.306
 ---

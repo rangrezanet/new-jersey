@@ -1,6 +1,6 @@
 ---
 title: Tabneracle
 url: /tabneracle/
-latitude: 
-longitude: 
+latitude: 39.847
+longitude: -74.74
 ---

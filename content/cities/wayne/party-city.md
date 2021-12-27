@@ -1,5 +1,5 @@
 ---
 title: "Party City"
 url: /wayne/party-city/
-shop: party
+shop: Partyzubehör
 ---

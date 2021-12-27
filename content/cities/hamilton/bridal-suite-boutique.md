@@ -1,5 +1,5 @@
 ---
 title: "Bridal Suite Boutique"
 url: /hamilton/bridal-suite-boutique/
-shop: clothes
+shop: Kleidung
 ---

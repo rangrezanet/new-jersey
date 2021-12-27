@@ -1,5 +1,5 @@
 ---
 title: "Bibingkafe"
 url: /raritan/bibingkafe/
-shop: bakery
+shop: Bäckerei
 ---

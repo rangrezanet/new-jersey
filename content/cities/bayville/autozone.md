@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bayville/autozone/
-shop: car parts
+shop: Autoteile
 ---

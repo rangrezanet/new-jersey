@@ -1,6 +1,6 @@
 ---
 title: Cherry Hill
 url: /cherry-hill/
-latitude: 40.9204452
-longitude: -74.0390919
+latitude: 39.934
+longitude: -75.025
 ---

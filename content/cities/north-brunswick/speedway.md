@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /north-brunswick/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Lawnside
 url: /lawnside/
-latitude: 39.8665025
-longitude: -75.0282253
+latitude: 39.868
+longitude: -75.042
 ---

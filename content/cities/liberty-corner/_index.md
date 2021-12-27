@@ -1,6 +1,6 @@
 ---
 title: Liberty Corner
 url: /liberty-corner/
-latitude: 40.6648238
-longitude: -74.5773795
+latitude: 40.665
+longitude: -74.578
 ---

@@ -1,6 +1,6 @@
 ---
 title: Belmar
 url: /belmar/
-latitude: 40.1784471
-longitude: -74.0218037
+latitude: 40.18
+longitude: -74.025
 ---

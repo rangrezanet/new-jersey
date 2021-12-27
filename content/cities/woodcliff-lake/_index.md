@@ -1,6 +1,6 @@
 ---
 title: Woodcliff Lake
 url: /woodcliff-lake/
-latitude: 41.0234304
-longitude: -74.0665297
+latitude: 41.043
+longitude: -74.071
 ---

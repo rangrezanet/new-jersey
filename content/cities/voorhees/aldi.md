@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /voorhees/aldi/
-shop: supermarket
+shop: Supermarkt
 ---

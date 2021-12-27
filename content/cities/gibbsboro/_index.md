@@ -1,6 +1,6 @@
 ---
 title: Gibbsboro
 url: /gibbsboro/
-latitude: 39.8381698
-longitude: -74.9648887
+latitude: 39.838
+longitude: -74.958
 ---

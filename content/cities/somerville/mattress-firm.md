@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /somerville/mattress-firm/
-shop: bed
+shop: Betten
 ---

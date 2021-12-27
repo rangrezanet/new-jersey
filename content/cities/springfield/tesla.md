@@ -1,5 +1,5 @@
 ---
 title: "Tesla"
 url: /springfield/tesla/
-shop: car
+shop: Autohaus
 ---

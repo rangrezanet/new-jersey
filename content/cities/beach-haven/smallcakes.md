@@ -1,5 +1,5 @@
 ---
 title: "Smallcakes"
 url: /beach-haven/smallcakes/
-shop: pastry
+shop: Konditorei
 ---

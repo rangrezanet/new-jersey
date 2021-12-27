@@ -1,6 +1,6 @@
 ---
 title: Jackson
 url: /jackson/
-latitude: 40.115176600000005
-longitude: -74.3647772
+latitude: 40.099
+longitude: -74.345
 ---

@@ -1,6 +1,6 @@
 ---
 title: Englewood
 url: /englewood/
-latitude: 40.8928771
-longitude: -73.9726381
+latitude: 40.896
+longitude: -73.974
 ---

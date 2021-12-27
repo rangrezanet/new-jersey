@@ -1,6 +1,6 @@
 ---
 title: Chester Township
 url: /chester-township/
-latitude: 
-longitude: 
+latitude: 40.803
+longitude: -74.715
 ---

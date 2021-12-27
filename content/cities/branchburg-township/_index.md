@@ -1,6 +1,6 @@
 ---
 title: Branchburg Township
 url: /branchburg-township/
-latitude: 
-longitude: 
+latitude: 40.606
+longitude: -74.698
 ---

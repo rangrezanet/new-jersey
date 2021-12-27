@@ -1,6 +1,6 @@
 ---
 title: North Bergen
 url: /north-bergen/
-latitude: 40.8042674
-longitude: -74.012084
+latitude: 40.773
+longitude: -74.037
 ---

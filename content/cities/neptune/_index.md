@@ -1,6 +1,6 @@
 ---
 title: Neptune
 url: /neptune/
-latitude: 40.2239981
-longitude: -74.0478216
+latitude: 40.225
+longitude: -74.084
 ---

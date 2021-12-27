@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /wayne/coach/
-shop: bag
+shop: Taschen & Koffer
 ---

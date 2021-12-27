@@ -1,6 +1,6 @@
 ---
 title: Pittsgrove
 url: /pittsgrove/
-latitude: 
-longitude: 
+latitude: 39.529
+longitude: -75.1
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /ramsey/bridgestone/
-shop: tyres
+shop: Reifen
 ---

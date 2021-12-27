@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /union/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

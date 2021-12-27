@@ -1,5 +1,5 @@
 ---
 title: "Elco Laundromat"
 url: /jersey-city/elco-laundromat/
-shop: laundry
+shop: Wäscherei
 ---

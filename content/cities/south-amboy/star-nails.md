@@ -1,5 +1,5 @@
 ---
 title: "Star Nails"
 url: /south-amboy/star-nails/
-shop: beauty
+shop: Kosmetik
 ---

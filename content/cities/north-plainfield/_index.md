@@ -1,6 +1,6 @@
 ---
 title: North Plainfield
 url: /north-plainfield/
-latitude: 40.6301025
-longitude: -74.42737430000001
+latitude: 40.622
+longitude: -74.429
 ---

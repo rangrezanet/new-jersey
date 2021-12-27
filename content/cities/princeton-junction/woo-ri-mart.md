@@ -1,5 +1,5 @@
 ---
 title: "Woo-Ri Mart"
 url: /princeton-junction/woo-ri-mart/
-shop: supermarket
+shop: Supermarkt
 ---

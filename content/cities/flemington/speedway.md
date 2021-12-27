@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /flemington/speedway/
-shop: convenience
+shop: Lebensmittel
 ---

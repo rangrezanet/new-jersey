@@ -1,5 +1,5 @@
 ---
 title: "Comic Fortress"
 url: /somerville/comic-fortress/
-shop: books
+shop: Bücher
 ---

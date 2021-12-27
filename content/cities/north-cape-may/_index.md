@@ -1,6 +1,6 @@
 ---
 title: North Cape May
 url: /north-cape-may/
-latitude: 38.9820569
-longitude: -74.9579523
+latitude: 38.982
+longitude: -74.943
 ---

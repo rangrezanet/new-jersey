@@ -1,5 +1,5 @@
 ---
 title: "Bravo"
 url: /dover/bravo/
-shop: supermarket
+shop: Supermarkt
 ---

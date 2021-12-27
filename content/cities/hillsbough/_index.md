@@ -1,6 +1,6 @@
 ---
 title: Hillsbough
 url: /hillsbough/
-latitude: 
-longitude: 
+latitude: 40.536
+longitude: -74.617
 ---

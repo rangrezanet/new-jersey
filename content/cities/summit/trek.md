@@ -1,5 +1,5 @@
 ---
 title: "Trek"
 url: /summit/trek/
-shop: bicycle
+shop: Fahrrad
 ---

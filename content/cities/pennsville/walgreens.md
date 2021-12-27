@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /pennsville/walgreens/
-shop: chemist
+shop: Drogerie
 ---

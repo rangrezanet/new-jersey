@@ -1,6 +1,6 @@
 ---
 title: Lakewood Township
 url: /lakewood-township/
-latitude: 
-longitude: 
+latitude: 40.107
+longitude: -74.217
 ---

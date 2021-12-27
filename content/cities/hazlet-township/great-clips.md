@@ -1,5 +1,5 @@
 ---
 title: "Great Clips"
 url: /hazlet-township/great-clips/
-shop: hairdresser
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Da Shop"
 url: /pompton-lakes/da-shop/
-shop: hairdresser
+shop: Friseur
 ---

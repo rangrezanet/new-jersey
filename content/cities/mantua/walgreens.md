@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /mantua/walgreens/
-shop: chemist
+shop: Drogerie
 ---

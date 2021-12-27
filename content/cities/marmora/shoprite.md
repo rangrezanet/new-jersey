@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /marmora/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

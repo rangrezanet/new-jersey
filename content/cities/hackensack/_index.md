@@ -1,6 +1,6 @@
 ---
 title: Hackensack
 url: /hackensack/
-latitude: 40.887143800000004
-longitude: -74.0410865
+latitude: 40.899
+longitude: -74.039
 ---

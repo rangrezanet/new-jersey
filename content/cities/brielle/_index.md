@@ -1,6 +1,6 @@
 ---
 title: Brielle
 url: /brielle/
-latitude: 40.107893100000005
-longitude: -74.0565263
+latitude: 40.107
+longitude: -74.059
 ---

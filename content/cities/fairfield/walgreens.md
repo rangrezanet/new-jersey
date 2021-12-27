@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /fairfield/walgreens/
-shop: chemist
+shop: Drogerie
 ---

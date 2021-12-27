@@ -1,5 +1,5 @@
 ---
 title: "Goldtinker"
 url: /red-bank/goldtinker/
-shop: jewelry
+shop: Schmuck
 ---

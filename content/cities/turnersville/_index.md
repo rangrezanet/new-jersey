@@ -1,6 +1,6 @@
 ---
 title: Turnersville
 url: /turnersville/
-latitude: 39.77317
-longitude: -75.0512813
+latitude: 39.729
+longitude: -75.037
 ---

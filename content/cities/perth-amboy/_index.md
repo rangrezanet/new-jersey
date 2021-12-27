@@ -1,6 +1,6 @@
 ---
 title: Perth Amboy
 url: /perth-amboy/
-latitude: 40.5200187
-longitude: -74.2745215
+latitude: 40.507
+longitude: -74.271
 ---

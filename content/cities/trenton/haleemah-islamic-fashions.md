@@ -1,5 +1,5 @@
 ---
 title: "Haleemah Islamic Fashions"
 url: /trenton/haleemah-islamic-fashions/
-shop: clothes
+shop: Kleidung
 ---

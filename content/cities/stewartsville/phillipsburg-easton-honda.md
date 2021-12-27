@@ -1,5 +1,5 @@
 ---
 title: "Phillipsburg-Easton Honda"
 url: /stewartsville/phillipsburg-easton-honda/
-shop: car
+shop: Autohaus
 ---

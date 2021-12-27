@@ -1,6 +1,6 @@
 ---
 title: East Orange
 url: /east-orange/
-latitude: 40.767323000000005
-longitude: -74.20486770000001
+latitude: 40.766
+longitude: -74.216
 ---

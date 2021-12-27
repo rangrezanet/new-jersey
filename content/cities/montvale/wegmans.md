@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /montvale/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

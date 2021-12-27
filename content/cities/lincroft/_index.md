@@ -1,6 +1,6 @@
 ---
 title: Lincroft
 url: /lincroft/
-latitude: 40.3306656
-longitude: -74.1209748
+latitude: 40.331
+longitude: -74.119
 ---

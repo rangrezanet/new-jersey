@@ -1,6 +1,6 @@
 ---
 title: West Long Branch
 url: /west-long-branch/
-latitude: 40.290389100000006
-longitude: -74.0176381
+latitude: 40.296
+longitude: -74.031
 ---

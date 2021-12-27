@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /sewell/shoprite/
-shop: supermarket
+shop: Supermarkt
 ---

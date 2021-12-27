@@ -1,5 +1,5 @@
 ---
 title: "Juan's Beauty Salon"
 url: /camden/juans-beauty-salon/
-shop: hairdresser
+shop: Friseur
 ---

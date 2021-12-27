@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /maple-shade/goodwill/
-shop: charity
+shop: Gebrauchtwaren
 ---

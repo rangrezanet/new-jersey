@@ -1,5 +1,5 @@
 ---
 title: "Luluemon"
 url: /marlton/luluemon/
-shop: clothes
+shop: Kleidung
 ---

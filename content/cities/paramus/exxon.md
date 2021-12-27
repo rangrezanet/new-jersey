@@ -1,5 +1,5 @@
 ---
 title: "Exxon"
 url: /paramus/exxon/
-shop: car repair
+shop: Autowerkstatt
 ---

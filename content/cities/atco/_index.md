@@ -1,6 +1,6 @@
 ---
 title: Atco
 url: /atco/
-latitude: 39.769838
-longitude: -74.88738550000001
+latitude: 39.772
+longitude: -74.9
 ---

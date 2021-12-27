@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /wantage/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boonton
 url: /boonton/
-latitude: 40.9025989
-longitude: -74.4070971
+latitude: 40.908
+longitude: -74.417
 ---

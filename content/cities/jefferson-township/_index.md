@@ -1,6 +1,6 @@
 ---
 title: Jefferson Township
 url: /jefferson-township/
-latitude: 
-longitude: 
+latitude: 40.967
+longitude: -74.597
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /ocean/wegmans/
-shop: supermarket
+shop: Supermarkt
 ---

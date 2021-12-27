@@ -1,6 +1,6 @@
 ---
 title: Rockaway
 url: /rockaway/
-latitude: 40.9012101
-longitude: -74.5143232
+latitude: 40.908
+longitude: -74.558
 ---

@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /sayreville/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

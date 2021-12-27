@@ -1,5 +1,5 @@
 ---
 title: "West Belt Plaza"
 url: /wayne/west-belt-plaza/
-shop: mall
+shop: Einkaufszentrum
 ---

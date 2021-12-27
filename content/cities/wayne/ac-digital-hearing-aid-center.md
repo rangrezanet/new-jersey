@@ -1,5 +1,5 @@
 ---
 title: "AC Digital Hearing Aid Center"
 url: /wayne/ac-digital-hearing-aid-center/
-shop: hearing aids
+shop: Hörgeräte
 ---

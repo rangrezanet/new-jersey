@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /washington/quickchek/
-shop: convenience
+shop: Lebensmittel
 ---

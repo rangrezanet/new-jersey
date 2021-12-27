@@ -1,6 +1,6 @@
 ---
 title: Parsippany
 url: /parsippany/
-latitude: 40.857877200000004
-longitude: -74.4259866
+latitude: 40.86
+longitude: -74.426
 ---

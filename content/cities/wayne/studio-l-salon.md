@@ -1,5 +1,5 @@
 ---
 title: "Studio L Salon"
 url: /wayne/studio-l-salon/
-shop: hairdresser
+shop: Friseur
 ---

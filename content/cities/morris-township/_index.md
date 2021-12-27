@@ -1,6 +1,6 @@
 ---
 title: Morris Township
 url: /morris-township/
-latitude: 
-longitude: 
+latitude: 40.811
+longitude: -74.468
 ---

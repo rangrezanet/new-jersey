@@ -1,6 +1,6 @@
 ---
 title: Bloomingdale
 url: /bloomingdale/
-latitude: 40.497604
-longitude: -74.64738080000001
+latitude: 41.007
+longitude: -74.344
 ---

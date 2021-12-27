@@ -1,5 +1,5 @@
 ---
 title: "Holly Ravine Cleaners"
 url: /cherry-hill/holly-ravine-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

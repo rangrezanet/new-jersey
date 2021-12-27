@@ -1,6 +1,6 @@
 ---
 title: Galloway Township
 url: /galloway-township/
-latitude: 39.464609700000004
-longitude: -74.4986142
+latitude: 39.446
+longitude: -74.527
 ---

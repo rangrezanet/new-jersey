@@ -1,5 +1,5 @@
 ---
 title: "Salvatore's Tailor Shop"
 url: /pompton-lakes/salvatores-tailor-shop/
-shop: tailor
+shop: Schneiderei
 ---

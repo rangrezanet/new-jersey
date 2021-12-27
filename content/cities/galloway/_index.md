@@ -1,6 +1,6 @@
 ---
 title: Galloway
 url: /galloway/
-latitude: 
-longitude: 
+latitude: 39.466
+longitude: -74.499
 ---

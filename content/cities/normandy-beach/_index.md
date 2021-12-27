@@ -1,6 +1,6 @@
 ---
 title: Normandy Beach
 url: /normandy-beach/
-latitude: 40.0026176
-longitude: -74.0604141
+latitude: 40.002
+longitude: -74.061
 ---

@@ -1,6 +1,6 @@
 ---
 title: Wyckoff
 url: /wyckoff/
-latitude: 41.0095417
-longitude: -74.1729222
+latitude: 41.011
+longitude: -74.172
 ---

@@ -1,6 +1,6 @@
 ---
 title: Williamstown
 url: /williamstown/
-latitude: 39.6862263
-longitude: -74.995168
+latitude: 39.662
+longitude: -74.961
 ---

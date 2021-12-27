@@ -1,5 +1,5 @@
 ---
 title: "MOD-ARTE"
 url: /wayne/mod-arte/
-shop: furniture
+shop: Möbel
 ---

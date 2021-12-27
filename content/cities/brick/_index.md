@@ -1,6 +1,6 @@
 ---
 title: Brick
 url: /brick/
-latitude: 40.0707244
-longitude: -74.1280562
+latitude: 40.066
+longitude: -74.146
 ---

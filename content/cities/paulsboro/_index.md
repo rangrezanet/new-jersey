@@ -1,6 +1,6 @@
 ---
 title: Paulsboro
 url: /paulsboro/
-latitude: 39.830391000000006
-longitude: -75.24046080000001
+latitude: 39.826
+longitude: -75.247
 ---

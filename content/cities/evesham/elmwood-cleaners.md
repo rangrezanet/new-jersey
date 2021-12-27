@@ -1,5 +1,5 @@
 ---
 title: "Elmwood Cleaners"
 url: /evesham/elmwood-cleaners/
-shop: laundry
+shop: Wäscherei
 ---

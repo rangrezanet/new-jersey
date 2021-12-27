@@ -1,6 +1,6 @@
 ---
 title: Ewing
 url: /ewing/
-latitude: 40.2688105
-longitude: -74.8006895
+latitude: 40.267
+longitude: -74.806
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /lodi/wawa/
-shop: convenience
+shop: Lebensmittel
 ---

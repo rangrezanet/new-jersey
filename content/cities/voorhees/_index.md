@@ -1,6 +1,6 @@
 ---
 title: Voorhees
 url: /voorhees/
-latitude: 39.8512162
-longitude: -74.96197790000001
+latitude: 39.852
+longitude: -75.007
 ---

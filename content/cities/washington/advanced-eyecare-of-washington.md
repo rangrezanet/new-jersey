@@ -1,5 +1,5 @@
 ---
 title: "Advanced Eyecare Of Washington"
 url: /washington/advanced-eyecare-of-washington/
-shop: optician
+shop: Optiker
 ---

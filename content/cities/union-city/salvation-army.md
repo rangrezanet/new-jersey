@@ -1,5 +1,5 @@
 ---
 title: "Salvation Army"
 url: /union-city/salvation-army/
-shop: charity
+shop: Gebrauchtwaren
 ---
