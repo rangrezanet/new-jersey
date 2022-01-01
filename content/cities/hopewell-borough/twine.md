@@ -1,5 +1,5 @@
 ---
 title: "Twine"
-url: /hopewell/twine/
+url: /hopewell-borough/twine/
 shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sourland Cycles"
-url: /hopewell/sourland-cycles/
+url: /hopewell-borough/sourland-cycles/
 shop: Fahrrad
 ---
