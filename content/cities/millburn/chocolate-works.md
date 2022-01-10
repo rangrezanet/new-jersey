@@ -1,5 +1,5 @@
 ---
 title: "Chocolate Works"
 url: /millburn/chocolate-works/
-shop: Schokolade
+shop: chocolate
 ---

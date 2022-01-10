@@ -1,5 +1,5 @@
 ---
 title: "JR's Auto Parts"
 url: /camden/jrs-auto-parts/
-shop: Autowerkstatt
+shop: car repair
 ---

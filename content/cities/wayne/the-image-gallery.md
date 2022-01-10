@@ -1,5 +1,5 @@
 ---
 title: "The Image Gallery"
 url: /wayne/the-image-gallery/
-shop: Schmuck
+shop: jewelry
 ---

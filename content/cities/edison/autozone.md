@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /edison/autozone/
-shop: Autoteile
+shop: car parts
 ---

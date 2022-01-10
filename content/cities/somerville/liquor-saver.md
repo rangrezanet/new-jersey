@@ -1,5 +1,5 @@
 ---
 title: "Liquor Saver"
 url: /somerville/liquor-saver/
-shop: Spirituosen
+shop: alcohol
 ---

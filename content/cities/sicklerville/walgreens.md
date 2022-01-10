@@ -1,5 +1,5 @@
 ---
 title: "Walgreens"
 url: /sicklerville/walgreens/
-shop: Lebensmittel
+shop: convenience
 ---

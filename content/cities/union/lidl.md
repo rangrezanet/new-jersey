@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /union/lidl/
-shop: Supermarkt
+shop: supermarket
 ---

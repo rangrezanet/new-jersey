@@ -1,5 +1,5 @@
 ---
 title: "Hopewell Valley Vineyards"
 url: /pennington/hopewell-valley-vineyards/
-shop: Wein
+shop: wine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JGM FUEL INC"
 url: /wayne/jgm-fuel-inc/
-shop: Treibstoff
+shop: fuel
 ---

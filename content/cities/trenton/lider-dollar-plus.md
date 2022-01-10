@@ -1,5 +1,5 @@
 ---
 title: "Lider Dollar Plus"
 url: /trenton/lider-dollar-plus/
-shop: Kramladen
+shop: variety store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kmart"
 url: /westwood/kmart/
-shop: Warenhaus
+shop: department store
 ---

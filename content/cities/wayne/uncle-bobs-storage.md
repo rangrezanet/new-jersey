@@ -1,5 +1,5 @@
 ---
 title: "Uncle Bob's Storage"
 url: /wayne/uncle-bobs-storage/
-shop: Mieten
+shop: storage rental
 ---

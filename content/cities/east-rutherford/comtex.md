@@ -1,5 +1,5 @@
 ---
 title: "Comtex"
 url: /east-rutherford/comtex/
-shop: Handy
+shop: mobile phone
 ---

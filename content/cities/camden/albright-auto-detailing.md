@@ -1,5 +1,5 @@
 ---
 title: "Albright Auto Detailing"
 url: /camden/albright-auto-detailing/
-shop: Autowerkstatt
+shop: car repair
 ---

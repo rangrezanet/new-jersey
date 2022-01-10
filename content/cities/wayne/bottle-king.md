@@ -1,5 +1,5 @@
 ---
 title: "Bottle King"
 url: /wayne/bottle-king/
-shop: Spirituosen
+shop: alcohol
 ---

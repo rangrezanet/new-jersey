@@ -1,5 +1,5 @@
 ---
 title: "Espinal Grocery"
 url: /trenton/espinal-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

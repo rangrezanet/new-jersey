@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /brooklawn/sprint/
-shop: Handy
+shop: mobile phone
 ---

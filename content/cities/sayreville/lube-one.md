@@ -1,5 +1,5 @@
 ---
 title: "Lube One"
 url: /sayreville/lube-one/
-shop: Autowerkstatt
+shop: car repair
 ---

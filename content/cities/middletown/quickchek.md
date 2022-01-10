@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /middletown/quickchek/
-shop: Lebensmittel
+shop: convenience
 ---

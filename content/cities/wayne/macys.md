@@ -1,5 +1,5 @@
 ---
 title: "Macy's"
 url: /wayne/macys/
-shop: Warenhaus
+shop: department store
 ---

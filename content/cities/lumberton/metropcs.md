@@ -1,5 +1,5 @@
 ---
 title: "MetroPCS"
 url: /lumberton/metropcs/
-shop: Handy
+shop: mobile phone
 ---

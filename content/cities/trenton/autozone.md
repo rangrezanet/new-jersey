@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /trenton/autozone/
-shop: Autoteile
+shop: car parts
 ---

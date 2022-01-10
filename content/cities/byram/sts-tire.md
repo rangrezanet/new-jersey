@@ -1,5 +1,5 @@
 ---
 title: "STS Tire"
 url: /byram/sts-tire/
-shop: Autowerkstatt
+shop: car repair
 ---

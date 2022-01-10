@@ -1,5 +1,5 @@
 ---
 title: "Blush Boutique"
 url: /wayne/blush-boutique/
-shop: Modehaus
+shop: boutique
 ---

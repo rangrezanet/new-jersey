@@ -1,5 +1,5 @@
 ---
 title: "All American Turf"
 url: /neptune-township/all-american-turf/
-shop: Allgemein
+shop: shop
 ---

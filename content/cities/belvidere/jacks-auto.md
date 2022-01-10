@@ -1,5 +1,5 @@
 ---
 title: "Jack's Auto"
 url: /belvidere/jacks-auto/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shoppers Paradise Liquors"
 url: /wayne/shoppers-paradise-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

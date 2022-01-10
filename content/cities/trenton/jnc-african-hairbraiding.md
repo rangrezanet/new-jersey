@@ -1,5 +1,5 @@
 ---
 title: "JNC African Hairbraiding"
 url: /trenton/jnc-african-hairbraiding/
-shop: Friseur
+shop: hairdresser
 ---

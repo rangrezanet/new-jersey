@@ -1,5 +1,5 @@
 ---
 title: "Jeff's Service Center"
 url: /trenton/jeffs-service-center/
-shop: Autowerkstatt
+shop: car repair
 ---

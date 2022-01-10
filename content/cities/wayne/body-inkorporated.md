@@ -1,5 +1,5 @@
 ---
 title: "Body Inkorporated"
 url: /wayne/body-inkorporated/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Echelon Ford"
 url: /stratford/echelon-ford/
-shop: Autohaus
+shop: car
 ---

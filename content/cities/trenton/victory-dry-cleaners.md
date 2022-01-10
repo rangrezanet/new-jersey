@@ -1,5 +1,5 @@
 ---
 title: "Victory Dry Cleaners"
 url: /trenton/victory-dry-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stop N Go"
 url: /sayreville/stop-n-go/
-shop: Lebensmittel
+shop: convenience
 ---

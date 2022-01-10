@@ -1,5 +1,5 @@
 ---
 title: "Automotive MD"
 url: /belvidere/automotive-md/
-shop: Autowerkstatt
+shop: car repair
 ---

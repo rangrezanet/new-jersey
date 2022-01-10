@@ -1,5 +1,5 @@
 ---
 title: "Party Fair"
 url: /east-brunswick/party-fair/
-shop: Partyzubehör
+shop: party
 ---

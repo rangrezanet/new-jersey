@@ -1,5 +1,5 @@
 ---
 title: "CMD All Stars"
 url: /camden/cmd-all-stars/
-shop: Friseur
+shop: hairdresser
 ---

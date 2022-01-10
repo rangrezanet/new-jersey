@@ -1,5 +1,5 @@
 ---
 title: "HearingLife"
 url: /wayne/hearinglife/
-shop: Hörgeräte
+shop: hearing aids
 ---

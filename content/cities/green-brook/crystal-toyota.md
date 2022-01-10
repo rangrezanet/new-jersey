@@ -1,5 +1,5 @@
 ---
 title: "Crystal Toyota"
 url: /green-brook/crystal-toyota/
-shop: Autohaus
+shop: car
 ---

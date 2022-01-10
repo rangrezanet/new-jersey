@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /colonia/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

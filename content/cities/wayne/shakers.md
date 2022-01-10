@@ -1,5 +1,5 @@
 ---
 title: "Shakers"
 url: /wayne/shakers/
-shop: Textil
+shop: fabric
 ---

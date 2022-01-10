@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /blackwood/autozone/
-shop: Autoteile
+shop: car parts
 ---

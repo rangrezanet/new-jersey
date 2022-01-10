@@ -1,5 +1,5 @@
 ---
 title: "Spirit Shop"
 url: /cherry-hill-township/spirit-shop/
-shop: Spirituosen
+shop: alcohol
 ---

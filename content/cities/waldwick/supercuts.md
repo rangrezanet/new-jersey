@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /waldwick/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /wayne/mattress-firm/
-shop: Betten
+shop: bed
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monroe Liquor"
 url: /margate-city/monroe-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

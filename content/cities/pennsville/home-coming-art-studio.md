@@ -1,5 +1,5 @@
 ---
 title: "Home Coming Art Studio"
 url: /pennsville/home-coming-art-studio/
-shop: Basteln
+shop: craft
 ---

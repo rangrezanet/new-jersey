@@ -1,5 +1,5 @@
 ---
 title: "Paws Etc."
 url: /pompton-lakes/paws-etc/
-shop: Tiersalon
+shop: pet grooming
 ---

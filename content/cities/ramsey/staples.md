@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /ramsey/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

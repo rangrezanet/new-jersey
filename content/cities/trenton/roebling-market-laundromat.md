@@ -1,5 +1,5 @@
 ---
 title: "Roebling Market Laundromat"
 url: /trenton/roebling-market-laundromat/
-shop: Wäscherei
+shop: laundry
 ---

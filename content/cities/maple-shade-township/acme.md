@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /maple-shade-township/acme/
-shop: Supermarkt
+shop: supermarket
 ---

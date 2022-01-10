@@ -1,5 +1,5 @@
 ---
 title: "Phones For You Verizon Wireless"
 url: /waldwick/phones-for-you-verizon-wireless/
-shop: Handy
+shop: mobile phone
 ---

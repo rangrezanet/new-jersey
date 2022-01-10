@@ -1,5 +1,5 @@
 ---
 title: "Kilroy's Wonder Market"
 url: /glen-rock/kilroys-wonder-market/
-shop: Supermarkt
+shop: supermarket
 ---

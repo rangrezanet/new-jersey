@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /hazlet/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

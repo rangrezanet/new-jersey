@@ -1,5 +1,5 @@
 ---
 title: "Shahnawaz"
 url: /iselin/shahnawaz/
-shop: Supermarkt
+shop: supermarket
 ---

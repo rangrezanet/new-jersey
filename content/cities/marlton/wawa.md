@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /marlton/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

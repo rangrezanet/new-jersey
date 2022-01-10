@@ -1,5 +1,5 @@
 ---
 title: "Hodi's Auto Services"
 url: /old-bridge/hodis-auto-services/
-shop: Autoteile
+shop: car parts
 ---

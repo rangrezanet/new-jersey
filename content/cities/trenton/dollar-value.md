@@ -1,5 +1,5 @@
 ---
 title: "Dollar Value"
 url: /trenton/dollar-value/
-shop: Kramladen
+shop: variety store
 ---

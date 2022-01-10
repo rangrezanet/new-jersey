@@ -1,5 +1,5 @@
 ---
 title: "Morris Window Tinting"
 url: /phillipsburg/morris-window-tinting/
-shop: Autowerkstatt
+shop: car repair
 ---

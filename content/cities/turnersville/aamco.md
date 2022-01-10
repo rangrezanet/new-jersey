@@ -1,5 +1,5 @@
 ---
 title: "AAMCO"
 url: /turnersville/aamco/
-shop: Autowerkstatt
+shop: car repair
 ---

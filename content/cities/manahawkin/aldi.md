@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /manahawkin/aldi/
-shop: Supermarkt
+shop: supermarket
 ---

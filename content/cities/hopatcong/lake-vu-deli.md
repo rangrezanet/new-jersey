@@ -1,5 +1,5 @@
 ---
 title: "Lake-Vu Deli"
 url: /hopatcong/lake-vu-deli/
-shop: Feinkost
+shop: deli
 ---

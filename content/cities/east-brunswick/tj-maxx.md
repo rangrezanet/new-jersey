@@ -1,5 +1,5 @@
 ---
 title: "TJ Maxx"
 url: /east-brunswick/tj-maxx/
-shop: Warenhaus
+shop: department store
 ---

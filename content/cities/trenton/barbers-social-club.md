@@ -1,5 +1,5 @@
 ---
 title: "Barber's Social Club"
 url: /trenton/barbers-social-club/
-shop: Friseur
+shop: hairdresser
 ---

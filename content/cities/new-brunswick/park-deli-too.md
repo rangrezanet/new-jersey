@@ -1,5 +1,5 @@
 ---
 title: "Park Deli Too"
 url: /new-brunswick/park-deli-too/
-shop: Feinkost
+shop: deli
 ---

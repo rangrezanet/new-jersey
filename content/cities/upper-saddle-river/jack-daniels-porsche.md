@@ -1,5 +1,5 @@
 ---
 title: "Jack Daniels Porsche"
 url: /upper-saddle-river/jack-daniels-porsche/
-shop: Autohaus
+shop: car
 ---

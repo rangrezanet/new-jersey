@@ -1,5 +1,5 @@
 ---
 title: "Chuck's Automotive Machine Shop"
 url: /phillipsburg/chucks-automotive-machine-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

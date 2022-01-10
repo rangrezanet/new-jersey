@@ -1,5 +1,5 @@
 ---
 title: "The Chocolate Goat"
 url: /lafayette/the-chocolate-goat/
-shop: Andenken
+shop: gift
 ---

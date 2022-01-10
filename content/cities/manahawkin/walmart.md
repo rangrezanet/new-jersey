@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /manahawkin/walmart/
-shop: Warenhaus
+shop: department store
 ---

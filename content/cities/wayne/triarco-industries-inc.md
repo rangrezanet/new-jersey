@@ -1,5 +1,5 @@
 ---
 title: "Triarco Industries Inc"
 url: /wayne/triarco-industries-inc/
-shop: Bioladen
+shop: health food
 ---

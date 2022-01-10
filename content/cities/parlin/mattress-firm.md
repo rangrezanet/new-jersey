@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /parlin/mattress-firm/
-shop: Betten
+shop: bed
 ---

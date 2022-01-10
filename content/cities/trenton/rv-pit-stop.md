@@ -1,5 +1,5 @@
 ---
 title: "RV Pit Stop"
 url: /trenton/rv-pit-stop/
-shop: Autowerkstatt
+shop: car repair
 ---

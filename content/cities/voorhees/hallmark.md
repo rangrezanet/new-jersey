@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /voorhees/hallmark/
-shop: Andenken
+shop: gift
 ---

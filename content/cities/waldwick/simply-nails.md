@@ -1,5 +1,5 @@
 ---
 title: "Simply Nails"
 url: /waldwick/simply-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decor"
 url: /wayne/decor/
-shop: Allgemein
+shop: shop
 ---

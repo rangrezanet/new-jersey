@@ -1,5 +1,5 @@
 ---
 title: "Stride Rite"
 url: /wayne/stride-rite/
-shop: Schuhe
+shop: shoes
 ---

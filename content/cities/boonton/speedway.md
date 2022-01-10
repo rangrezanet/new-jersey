@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /boonton/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

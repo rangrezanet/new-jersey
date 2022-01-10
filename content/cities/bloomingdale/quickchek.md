@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /bloomingdale/quickchek/
-shop: Lebensmittel
+shop: convenience
 ---

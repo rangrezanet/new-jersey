@@ -1,5 +1,5 @@
 ---
 title: "Reyes Auto Repair"
 url: /camden/reyes-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

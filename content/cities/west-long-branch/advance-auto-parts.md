@@ -1,5 +1,5 @@
 ---
 title: "Advance Auto Parts"
 url: /west-long-branch/advance-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

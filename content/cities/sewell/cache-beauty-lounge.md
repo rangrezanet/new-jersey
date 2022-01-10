@@ -1,5 +1,5 @@
 ---
 title: "Caché Beauty Lounge"
 url: /sewell/cache-beauty-lounge/
-shop: Kosmetik
+shop: beauty
 ---

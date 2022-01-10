@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /edison/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

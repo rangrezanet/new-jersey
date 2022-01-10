@@ -1,5 +1,5 @@
 ---
 title: "Wegmans"
 url: /manalapan-township/wegmans/
-shop: Supermarkt
+shop: supermarket
 ---

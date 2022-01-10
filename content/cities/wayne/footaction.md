@@ -1,5 +1,5 @@
 ---
 title: "Footaction"
 url: /wayne/footaction/
-shop: Schuhe
+shop: shoes
 ---

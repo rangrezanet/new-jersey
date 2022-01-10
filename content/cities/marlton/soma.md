@@ -1,5 +1,5 @@
 ---
 title: "Soma"
 url: /marlton/soma/
-shop: Kleidung
+shop: clothes
 ---

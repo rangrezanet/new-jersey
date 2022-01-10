@@ -1,5 +1,5 @@
 ---
 title: "Nino's Grocery"
 url: /camden/ninos-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

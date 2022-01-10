@@ -1,5 +1,5 @@
 ---
 title: "ETP Fashion Enterprise"
 url: /trenton/etp-fashion-enterprise/
-shop: Kleidung
+shop: clothes
 ---

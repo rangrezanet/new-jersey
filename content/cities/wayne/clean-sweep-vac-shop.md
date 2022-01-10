@@ -1,5 +1,5 @@
 ---
 title: "Clean Sweep Vac Shop"
 url: /wayne/clean-sweep-vac-shop/
-shop: Staubsauger
+shop: vacuum cleaner
 ---

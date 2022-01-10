@@ -1,5 +1,5 @@
 ---
 title: "Hair Cuttery"
 url: /marlton/hair-cuttery/
-shop: Friseur
+shop: hairdresser
 ---

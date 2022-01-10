@@ -1,5 +1,5 @@
 ---
 title: "Cocounts"
 url: /beach-haven/cocounts/
-shop: Kleidung
+shop: clothes
 ---

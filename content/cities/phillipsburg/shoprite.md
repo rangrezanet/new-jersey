@@ -1,5 +1,5 @@
 ---
 title: "ShopRite"
 url: /phillipsburg/shoprite/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /blackwood/firestone/
-shop: Autowerkstatt
+shop: car repair
 ---

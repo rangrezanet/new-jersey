@@ -1,5 +1,5 @@
 ---
 title: "Wedgewood Plaza"
 url: /wayne/wedgewood-plaza/
-shop: Einkaufszentrum
+shop: mall
 ---

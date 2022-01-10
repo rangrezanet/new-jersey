@@ -1,5 +1,5 @@
 ---
 title: "Wayne Shell"
 url: /wayne/wayne-shell/
-shop: Autowerkstatt
+shop: car repair
 ---

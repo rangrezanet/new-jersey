@@ -1,5 +1,5 @@
 ---
 title: "Mattress Firm"
 url: /toms-river/mattress-firm/
-shop: Betten
+shop: bed
 ---

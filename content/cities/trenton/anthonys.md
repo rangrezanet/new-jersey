@@ -1,5 +1,5 @@
 ---
 title: "Anthony's"
 url: /trenton/anthonys/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Columbia Self Storage"
 url: /wayne/columbia-self-storage/
-shop: Mieten
+shop: storage rental
 ---

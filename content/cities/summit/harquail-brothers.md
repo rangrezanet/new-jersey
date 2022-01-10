@@ -1,5 +1,5 @@
 ---
 title: "Harquail Brothers"
 url: /summit/harquail-brothers/
-shop: Eisenwaren
+shop: hardware
 ---

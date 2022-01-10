@@ -1,5 +1,5 @@
 ---
 title: "Lasorpresa"
 url: /union-city/lasorpresa/
-shop: Supermarkt
+shop: supermarket
 ---

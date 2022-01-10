@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /wayne/pandora/
-shop: Schmuck
+shop: jewelry
 ---

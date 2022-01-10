@@ -1,5 +1,5 @@
 ---
 title: "Madison Express Multiservice"
 url: /perth-amboy/madison-express-multiservice/
-shop: Dorfladen
+shop: general
 ---

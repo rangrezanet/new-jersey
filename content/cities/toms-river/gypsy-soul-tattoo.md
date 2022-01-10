@@ -1,5 +1,5 @@
 ---
 title: "Gypsy Soul Tattoo"
 url: /toms-river/gypsy-soul-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /maple-shade-township/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

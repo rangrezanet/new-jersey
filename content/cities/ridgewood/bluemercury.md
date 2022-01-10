@@ -1,5 +1,5 @@
 ---
 title: "bluemercury"
 url: /ridgewood/bluemercury/
-shop: Kosmetik
+shop: beauty
 ---

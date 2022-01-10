@@ -1,5 +1,5 @@
 ---
 title: "Diaz Grocery Store"
 url: /camden/diaz-grocery-store/
-shop: Lebensmittel
+shop: convenience
 ---

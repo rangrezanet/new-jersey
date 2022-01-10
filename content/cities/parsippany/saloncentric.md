@@ -1,5 +1,5 @@
 ---
 title: "SalonCentric"
 url: /parsippany/saloncentric/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

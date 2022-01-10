@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /sewell/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

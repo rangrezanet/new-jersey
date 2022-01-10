@@ -1,5 +1,5 @@
 ---
 title: "Sally Beauty"
 url: /hazlet-township/sally-beauty/
-shop: Friseurbedarf
+shop: hairdresser supply
 ---

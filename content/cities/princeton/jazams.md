@@ -1,5 +1,5 @@
 ---
 title: "jaZams"
 url: /princeton/jazams/
-shop: Spielzeug
+shop: toys
 ---

@@ -1,5 +1,5 @@
 ---
 title: "JCPenney Home Store"
 url: /wayne/jcpenney-home-store/
-shop: Möbel
+shop: furniture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Moon Spa"
 url: /sayreville/moon-spa/
-shop: Massage
+shop: massage
 ---

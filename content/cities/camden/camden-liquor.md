@@ -1,5 +1,5 @@
 ---
 title: "Camden Liquor"
 url: /camden/camden-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

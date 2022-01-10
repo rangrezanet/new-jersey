@@ -1,5 +1,5 @@
 ---
 title: "Baby Gap"
 url: /marlton/baby-gap/
-shop: Kleidung
+shop: clothes
 ---

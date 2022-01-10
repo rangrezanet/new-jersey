@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /wayne/justice/
-shop: Kleidung
+shop: clothes
 ---

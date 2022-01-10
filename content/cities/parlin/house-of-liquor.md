@@ -1,5 +1,5 @@
 ---
 title: "House of Liquor"
 url: /parlin/house-of-liquor/
-shop: Spirituosen
+shop: alcohol
 ---

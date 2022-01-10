@@ -1,5 +1,5 @@
 ---
 title: "Rouge Nails"
 url: /wayne/rouge-nails/
-shop: Kosmetik
+shop: beauty
 ---

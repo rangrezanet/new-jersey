@@ -1,5 +1,5 @@
 ---
 title: "Expressions"
 url: /camden/expressions/
-shop: Friseur
+shop: hairdresser
 ---

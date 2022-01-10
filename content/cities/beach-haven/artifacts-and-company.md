@@ -1,5 +1,5 @@
 ---
 title: "Artifacts and Company"
 url: /beach-haven/artifacts-and-company/
-shop: Raumausstattung
+shop: interior decoration
 ---

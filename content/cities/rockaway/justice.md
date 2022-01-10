@@ -1,5 +1,5 @@
 ---
 title: "Justice"
 url: /rockaway/justice/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gorilla Vapes of Egg Harbor"
 url: /egg-harbor-township/gorilla-vapes-of-egg-harbor/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

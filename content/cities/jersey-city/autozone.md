@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /jersey-city/autozone/
-shop: Autoteile
+shop: car parts
 ---

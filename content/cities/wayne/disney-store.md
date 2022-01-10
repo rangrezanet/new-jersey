@@ -1,5 +1,5 @@
 ---
 title: "Disney Store"
 url: /wayne/disney-store/
-shop: Andenken
+shop: gift
 ---

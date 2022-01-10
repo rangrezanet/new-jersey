@@ -1,5 +1,5 @@
 ---
 title: "Executive Cuts"
 url: /trenton/executive-cuts/
-shop: Friseur
+shop: hairdresser
 ---

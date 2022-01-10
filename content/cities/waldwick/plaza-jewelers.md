@@ -1,5 +1,5 @@
 ---
 title: "Plaza Jewelers"
 url: /waldwick/plaza-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Louis E. Shimpf, Inc."
 url: /camden/louis-e-shimpf-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

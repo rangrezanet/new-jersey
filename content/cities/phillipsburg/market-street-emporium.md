@@ -1,5 +1,5 @@
 ---
 title: "Market Street Emporium"
 url: /phillipsburg/market-street-emporium/
-shop: Antiquitäten
+shop: antiques
 ---

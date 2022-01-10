@@ -1,5 +1,5 @@
 ---
 title: "Speedymart"
 url: /wayne/speedymart/
-shop: Lebensmittel
+shop: convenience
 ---

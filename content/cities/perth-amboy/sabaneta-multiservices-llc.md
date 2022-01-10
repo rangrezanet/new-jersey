@@ -1,5 +1,5 @@
 ---
 title: "Sabaneta Multiservices LLC"
 url: /perth-amboy/sabaneta-multiservices-llc/
-shop: Dorfladen
+shop: general
 ---

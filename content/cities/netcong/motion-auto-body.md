@@ -1,5 +1,5 @@
 ---
 title: "Motion Auto Body"
 url: /netcong/motion-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

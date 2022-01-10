@@ -1,5 +1,5 @@
 ---
 title: "Bonterra Market"
 url: /egg-harbor-township/bonterra-market/
-shop: Supermarkt
+shop: supermarket
 ---

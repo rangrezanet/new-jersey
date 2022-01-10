@@ -1,5 +1,5 @@
 ---
 title: "Kair Salon"
 url: /sayreville/kair-salon/
-shop: Kosmetik
+shop: beauty
 ---

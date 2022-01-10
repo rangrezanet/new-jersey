@@ -1,5 +1,5 @@
 ---
 title: "Fat Kat Tattoo"
 url: /keyport/fat-kat-tattoo/
-shop: Tattoo
+shop: tattoo
 ---

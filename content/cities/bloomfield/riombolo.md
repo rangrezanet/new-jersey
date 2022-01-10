@@ -1,5 +1,5 @@
 ---
 title: "Riombolo"
 url: /bloomfield/riombolo/
-shop: Bäckerei
+shop: bakery
 ---

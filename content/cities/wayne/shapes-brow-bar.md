@@ -1,5 +1,5 @@
 ---
 title: "Shapes Brow Bar"
 url: /wayne/shapes-brow-bar/
-shop: Kosmetik
+shop: beauty
 ---

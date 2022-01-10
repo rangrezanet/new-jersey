@@ -1,5 +1,5 @@
 ---
 title: "Ridgewood Cycle Shop"
 url: /ridgewood/ridgewood-cycle-shop/
-shop: Fahrrad
+shop: bicycle
 ---

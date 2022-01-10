@@ -1,5 +1,5 @@
 ---
 title: "Grove Pharmacy"
 url: /montclair/grove-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

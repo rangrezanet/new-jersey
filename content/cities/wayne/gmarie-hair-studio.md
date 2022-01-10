@@ -1,5 +1,5 @@
 ---
 title: "Gmarie Hair Studio"
 url: /wayne/gmarie-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

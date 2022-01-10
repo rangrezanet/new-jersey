@@ -1,5 +1,5 @@
 ---
 title: "Day Funeral Home"
 url: /keyport/day-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

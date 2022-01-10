@@ -1,5 +1,5 @@
 ---
 title: "Bongiovi Funeral Home"
 url: /raritan/bongiovi-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

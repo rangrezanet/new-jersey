@@ -1,5 +1,5 @@
 ---
 title: "Oshkosh B'gosh"
 url: /marlton/oshkosh-bgosh/
-shop: Babysachen
+shop: baby goods
 ---

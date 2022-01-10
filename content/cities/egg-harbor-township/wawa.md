@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /egg-harbor-township/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

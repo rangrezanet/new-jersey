@@ -1,5 +1,5 @@
 ---
 title: "The Paper Store of Wayne"
 url: /wayne/the-paper-store-of-wayne-2/
-shop: Andenken
+shop: gift
 ---

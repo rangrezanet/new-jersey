@@ -1,5 +1,5 @@
 ---
 title: "Pompton Tire Service"
 url: /wayne/pompton-tire-service/
-shop: Reifen
+shop: tyres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "J Nails"
 url: /jersey-city/j-nails/
-shop: Kosmetik
+shop: beauty
 ---

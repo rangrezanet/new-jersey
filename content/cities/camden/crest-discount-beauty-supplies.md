@@ -1,5 +1,5 @@
 ---
 title: "Crest Discount Beauty Supplies"
 url: /camden/crest-discount-beauty-supplies/
-shop: Kramladen
+shop: variety store
 ---

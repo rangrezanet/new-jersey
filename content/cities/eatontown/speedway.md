@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /eatontown/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

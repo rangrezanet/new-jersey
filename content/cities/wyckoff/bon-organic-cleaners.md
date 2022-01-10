@@ -1,5 +1,5 @@
 ---
 title: "Bon Organic Cleaners"
 url: /wyckoff/bon-organic-cleaners/
-shop: Wäscherei
+shop: laundry
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bark Avenue Pet Grooming"
 url: /forked-river/bark-avenue-pet-grooming/
-shop: Tiersalon
+shop: pet grooming
 ---

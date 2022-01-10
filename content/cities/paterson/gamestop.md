@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /paterson/gamestop/
-shop: Videospiele
+shop: video games
 ---

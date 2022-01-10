@@ -1,5 +1,5 @@
 ---
 title: "Simple Mobile Solutions"
 url: /trenton/simple-mobile-solutions/
-shop: Handy
+shop: mobile phone
 ---

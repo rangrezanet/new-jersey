@@ -1,5 +1,5 @@
 ---
 title: "Fudge Kitchen"
 url: /stone-harbor/fudge-kitchen/
-shop: Süßwaren
+shop: confectionery
 ---

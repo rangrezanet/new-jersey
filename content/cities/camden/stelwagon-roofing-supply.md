@@ -1,5 +1,5 @@
 ---
 title: "Stelwagon Roofing Supply"
 url: /camden/stelwagon-roofing-supply/
-shop: Eisenwaren
+shop: hardware
 ---

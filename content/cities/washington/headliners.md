@@ -1,5 +1,5 @@
 ---
 title: "Headliners"
 url: /washington/headliners/
-shop: Friseur
+shop: hairdresser
 ---

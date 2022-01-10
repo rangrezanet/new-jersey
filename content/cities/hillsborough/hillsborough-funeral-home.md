@@ -1,5 +1,5 @@
 ---
 title: "Hillsborough Funeral Home"
 url: /hillsborough/hillsborough-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trenton Steak Co."
 url: /trenton/trenton-steak-co/
-shop: Metzgerei
+shop: butcher
 ---

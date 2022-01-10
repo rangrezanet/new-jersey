@@ -1,5 +1,5 @@
 ---
 title: "Balthazar"
 url: /englewood/balthazar/
-shop: Konditorei
+shop: pastry
 ---

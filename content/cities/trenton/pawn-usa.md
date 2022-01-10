@@ -1,5 +1,5 @@
 ---
 title: "Pawn USA"
 url: /trenton/pawn-usa/
-shop: Leiher
+shop: pawnbroker
 ---

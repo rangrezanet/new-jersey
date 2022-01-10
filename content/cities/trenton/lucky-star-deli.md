@@ -1,5 +1,5 @@
 ---
 title: "Lucky Star Deli"
 url: /trenton/lucky-star-deli/
-shop: Feinkost
+shop: deli
 ---

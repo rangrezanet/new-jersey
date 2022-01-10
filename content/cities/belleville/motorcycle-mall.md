@@ -1,5 +1,5 @@
 ---
 title: "Motorcycle Mall"
 url: /belleville/motorcycle-mall/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fantastic Braids"
 url: /trenton/fantastic-braids/
-shop: Friseur
+shop: hairdresser
 ---

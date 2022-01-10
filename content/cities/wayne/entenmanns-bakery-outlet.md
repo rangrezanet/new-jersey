@@ -1,5 +1,5 @@
 ---
 title: "Entenmann's Bakery Outlet"
 url: /wayne/entenmanns-bakery-outlet/
-shop: Bäckerei
+shop: bakery
 ---

@@ -1,5 +1,5 @@
 ---
 title: "F.R. Grocery"
 url: /camden/f-r-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

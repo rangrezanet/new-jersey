@@ -1,5 +1,5 @@
 ---
 title: "CVS Pharmacy"
 url: /shrewsbury/cvs-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

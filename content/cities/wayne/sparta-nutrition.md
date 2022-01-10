@@ -1,5 +1,5 @@
 ---
 title: "Sparta Nutrition"
 url: /wayne/sparta-nutrition/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

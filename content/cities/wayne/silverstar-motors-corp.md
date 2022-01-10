@@ -1,5 +1,5 @@
 ---
 title: "Silverstar Motors Corp"
 url: /wayne/silverstar-motors-corp/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MY Auto Sales LLC"
 url: /lakewood/my-auto-sales-llc/
-shop: Autohaus
+shop: car
 ---

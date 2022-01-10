@@ -1,5 +1,5 @@
 ---
 title: "Wayne Crest Shopping Center"
 url: /wayne/wayne-crest-shopping-center/
-shop: Einkaufszentrum
+shop: mall
 ---

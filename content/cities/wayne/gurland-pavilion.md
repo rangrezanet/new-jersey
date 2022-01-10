@@ -1,5 +1,5 @@
 ---
 title: "Gurland Pavilion"
 url: /wayne/gurland-pavilion/
-shop: Einkaufszentrum
+shop: mall
 ---

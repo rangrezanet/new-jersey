@@ -1,5 +1,5 @@
 ---
 title: "Jersey Cycles"
 url: /jersey-city/jersey-cycles/
-shop: Fahrrad
+shop: bicycle
 ---

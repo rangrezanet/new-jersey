@@ -1,5 +1,5 @@
 ---
 title: "Norma's Grocery Outlet"
 url: /camden/normas-grocery-outlet/
-shop: Lebensmittel
+shop: convenience
 ---

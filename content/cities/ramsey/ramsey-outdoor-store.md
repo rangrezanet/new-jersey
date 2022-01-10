@@ -1,5 +1,5 @@
 ---
 title: "Ramsey Outdoor Store"
 url: /ramsey/ramsey-outdoor-store/
-shop: Sport
+shop: sports
 ---

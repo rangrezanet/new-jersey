@@ -1,5 +1,5 @@
 ---
 title: "Compact Auto Body Inc."
 url: /matawan/compact-auto-body-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

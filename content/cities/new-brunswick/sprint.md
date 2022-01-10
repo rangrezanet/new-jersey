@@ -1,5 +1,5 @@
 ---
 title: "Sprint"
 url: /new-brunswick/sprint/
-shop: Handy
+shop: mobile phone
 ---

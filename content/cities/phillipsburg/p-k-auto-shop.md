@@ -1,5 +1,5 @@
 ---
 title: "P.K. Auto Shop"
 url: /phillipsburg/p-k-auto-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

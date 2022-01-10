@@ -1,5 +1,5 @@
 ---
 title: "Girlfriends"
 url: /medford/girlfriends/
-shop: Kleidung
+shop: clothes
 ---

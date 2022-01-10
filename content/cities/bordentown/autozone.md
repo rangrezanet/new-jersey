@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /bordentown/autozone/
-shop: Autoteile
+shop: car parts
 ---

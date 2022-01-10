@@ -1,5 +1,5 @@
 ---
 title: "Pep Boys"
 url: /cherry-hill/pep-boys/
-shop: Autowerkstatt
+shop: car repair
 ---

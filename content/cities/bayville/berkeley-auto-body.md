@@ -1,5 +1,5 @@
 ---
 title: "Berkeley Auto Body"
 url: /bayville/berkeley-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

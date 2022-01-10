@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /clark/quickchek/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beauty Salon Barbershop"
 url: /somerville/beauty-salon-barbershop/
-shop: Kosmetik
+shop: beauty
 ---

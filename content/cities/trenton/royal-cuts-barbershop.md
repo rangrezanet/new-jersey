@@ -1,5 +1,5 @@
 ---
 title: "Royal Cuts Barbershop"
 url: /trenton/royal-cuts-barbershop/
-shop: Friseur
+shop: hairdresser
 ---

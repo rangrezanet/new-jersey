@@ -1,5 +1,5 @@
 ---
 title: "Scuba"
 url: /voorhees/scuba/
-shop: Pool
+shop: whirlpool
 ---

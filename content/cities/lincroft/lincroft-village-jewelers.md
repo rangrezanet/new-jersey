@@ -1,5 +1,5 @@
 ---
 title: "Lincroft Village Jewelers"
 url: /lincroft/lincroft-village-jewelers/
-shop: Schmuck
+shop: jewelry
 ---

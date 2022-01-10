@@ -1,5 +1,5 @@
 ---
 title: "Wayne Vending"
 url: /wayne/wayne-vending/
-shop: Allgemein
+shop: shop
 ---

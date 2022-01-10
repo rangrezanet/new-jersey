@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /paramus/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

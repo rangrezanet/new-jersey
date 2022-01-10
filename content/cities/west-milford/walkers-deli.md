@@ -1,5 +1,5 @@
 ---
 title: "Walkers Deli"
 url: /west-milford/walkers-deli/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gap"
 url: /marlton/gap/
-shop: Kleidung
+shop: clothes
 ---

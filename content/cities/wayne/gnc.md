@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /wayne/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Charlotte Russe"
 url: /wayne/charlotte-russe/
-shop: Kleidung
+shop: clothes
 ---

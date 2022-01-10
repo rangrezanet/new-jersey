@@ -1,5 +1,5 @@
 ---
 title: "The Choco Shoppe"
 url: /lakewood/the-choco-shoppe/
-shop: Schokolade
+shop: chocolate
 ---

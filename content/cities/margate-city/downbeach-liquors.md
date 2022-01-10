@@ -1,5 +1,5 @@
 ---
 title: "Downbeach Liquors"
 url: /margate-city/downbeach-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

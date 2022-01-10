@@ -1,5 +1,5 @@
 ---
 title: "Pearl Street Market"
 url: /beach-haven/pearl-street-market/
-shop: Fisch
+shop: seafood
 ---

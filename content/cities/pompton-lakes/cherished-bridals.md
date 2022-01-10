@@ -1,5 +1,5 @@
 ---
 title: "Cherished Bridals"
 url: /pompton-lakes/cherished-bridals/
-shop: Kleidung
+shop: clothes
 ---

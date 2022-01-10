@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /somerset/gnc/
-shop: Nahrungsergänzung
+shop: nutrition supplements
 ---

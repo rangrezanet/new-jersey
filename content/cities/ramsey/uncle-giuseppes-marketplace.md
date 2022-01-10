@@ -1,5 +1,5 @@
 ---
 title: "Uncle Giuseppe's Marketplace"
 url: /ramsey/uncle-giuseppes-marketplace/
-shop: Supermarkt
+shop: supermarket
 ---

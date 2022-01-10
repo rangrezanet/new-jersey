@@ -1,5 +1,5 @@
 ---
 title: "Village Thrift Shop"
 url: /pemberton/village-thrift-shop/
-shop: Gebrauchtwaren
+shop: charity
 ---

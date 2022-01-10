@@ -1,5 +1,5 @@
 ---
 title: "Jordan's Supermarket"
 url: /camden/jordans-supermarket/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Corrado's"
 url: /wayne/corrados/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cambridge Kitchen Designs"
 url: /wayne/cambridge-kitchen-designs/
-shop: Küchen
+shop: kitchen
 ---

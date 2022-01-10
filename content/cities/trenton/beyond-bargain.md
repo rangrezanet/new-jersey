@@ -1,5 +1,5 @@
 ---
 title: "Beyond Bargain"
 url: /trenton/beyond-bargain/
-shop: Kramladen
+shop: variety store
 ---

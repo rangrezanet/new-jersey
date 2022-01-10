@@ -1,5 +1,5 @@
 ---
 title: "Guzman Mini Market"
 url: /trenton/guzman-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

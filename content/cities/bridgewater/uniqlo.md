@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
 url: /bridgewater/uniqlo/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Five Below"
 url: /wayne/five-below/
-shop: Kramladen
+shop: variety store
 ---

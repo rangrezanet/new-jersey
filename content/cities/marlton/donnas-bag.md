@@ -1,5 +1,5 @@
 ---
 title: "Donna's Bag"
 url: /marlton/donnas-bag/
-shop: Taschen & Koffer
+shop: bag
 ---

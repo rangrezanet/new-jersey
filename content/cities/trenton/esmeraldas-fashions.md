@@ -1,5 +1,5 @@
 ---
 title: "Esmeralda's Fashions"
 url: /trenton/esmeraldas-fashions/
-shop: Kleidung
+shop: clothes
 ---

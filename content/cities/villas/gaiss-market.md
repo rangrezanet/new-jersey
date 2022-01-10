@@ -1,5 +1,5 @@
 ---
 title: "Gaiss Market"
 url: /villas/gaiss-market/
-shop: Supermarkt
+shop: supermarket
 ---

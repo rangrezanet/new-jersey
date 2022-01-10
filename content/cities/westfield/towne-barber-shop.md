@@ -1,5 +1,5 @@
 ---
 title: "Towne Barber Shop"
 url: /westfield/towne-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

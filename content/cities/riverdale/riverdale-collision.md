@@ -1,5 +1,5 @@
 ---
 title: "Riverdale Collision"
 url: /riverdale/riverdale-collision/
-shop: Autowerkstatt
+shop: car repair
 ---

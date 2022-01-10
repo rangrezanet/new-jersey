@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /bayville/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

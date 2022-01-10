@@ -1,5 +1,5 @@
 ---
 title: "Alure"
 url: /gibbsboro/alure/
-shop: Friseur
+shop: hairdresser
 ---

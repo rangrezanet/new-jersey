@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /mount-laurel/target/
-shop: Warenhaus
+shop: department store
 ---

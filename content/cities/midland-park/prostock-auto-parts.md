@@ -1,5 +1,5 @@
 ---
 title: "ProStock Auto Parts"
 url: /midland-park/prostock-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

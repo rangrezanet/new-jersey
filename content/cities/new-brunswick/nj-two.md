@@ -1,5 +1,5 @@
 ---
 title: "NJ Two"
 url: /new-brunswick/nj-two/
-shop: Sport
+shop: sports
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diamond Auto Body"
 url: /wayne/diamond-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

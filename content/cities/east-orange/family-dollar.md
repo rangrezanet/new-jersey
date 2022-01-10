@@ -1,5 +1,5 @@
 ---
 title: "Family Dollar"
 url: /east-orange/family-dollar/
-shop: Kramladen
+shop: variety store
 ---

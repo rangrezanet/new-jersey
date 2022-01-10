@@ -1,5 +1,5 @@
 ---
 title: "Peru Market"
 url: /phillipsburg/peru-market/
-shop: Allgemein
+shop: shop
 ---

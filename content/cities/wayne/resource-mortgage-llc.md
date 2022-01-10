@@ -1,5 +1,5 @@
 ---
 title: "Resource Mortgage LLC"
 url: /wayne/resource-mortgage-llc/
-shop: Leiher
+shop: pawnbroker
 ---

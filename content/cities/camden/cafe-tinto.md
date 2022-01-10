@@ -1,5 +1,5 @@
 ---
 title: "Cafe Tinto"
 url: /camden/cafe-tinto/
-shop: Bäckerei
+shop: bakery
 ---

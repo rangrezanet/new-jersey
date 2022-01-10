@@ -1,5 +1,5 @@
 ---
 title: "Hampton House Furniture"
 url: /montclair/hampton-house-furniture/
-shop: Möbel
+shop: furniture
 ---

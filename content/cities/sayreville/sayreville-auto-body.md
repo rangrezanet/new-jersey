@@ -1,5 +1,5 @@
 ---
 title: "Sayreville Auto Body"
 url: /sayreville/sayreville-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

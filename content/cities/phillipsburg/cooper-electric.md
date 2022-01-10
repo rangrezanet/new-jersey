@@ -1,5 +1,5 @@
 ---
 title: "Cooper Electric"
 url: /phillipsburg/cooper-electric/
-shop: Elektrisch
+shop: trade
 ---

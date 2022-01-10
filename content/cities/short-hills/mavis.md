@@ -1,5 +1,5 @@
 ---
 title: "Mavis"
 url: /short-hills/mavis/
-shop: Autowerkstatt
+shop: car repair
 ---

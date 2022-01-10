@@ -1,5 +1,5 @@
 ---
 title: "Coles Garage"
 url: /mullica-hill/coles-garage/
-shop: Autowerkstatt
+shop: car repair
 ---

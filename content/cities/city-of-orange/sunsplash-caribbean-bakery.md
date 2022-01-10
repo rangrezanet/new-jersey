@@ -1,5 +1,5 @@
 ---
 title: "SunSplash Caribbean Bakery"
 url: /city-of-orange/sunsplash-caribbean-bakery/
-shop: Bäckerei
+shop: bakery
 ---

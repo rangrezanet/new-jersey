@@ -1,5 +1,5 @@
 ---
 title: "MG Tire Center"
 url: /camden/mg-tire-center/
-shop: Autowerkstatt
+shop: car repair
 ---

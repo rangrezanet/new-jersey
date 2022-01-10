@@ -1,5 +1,5 @@
 ---
 title: "BEACHED"
 url: /beach-haven/beached/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bartra Travel"
 url: /camden/bartra-travel/
-shop: Reisebüro
+shop: travel agency
 ---

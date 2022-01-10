@@ -1,5 +1,5 @@
 ---
 title: "Long Valley Auto Service"
 url: /long-valley/long-valley-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

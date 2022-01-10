@@ -1,5 +1,5 @@
 ---
 title: "Country Curtains"
 url: /marlton/country-curtains/
-shop: Gardinen
+shop: curtain
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Economy Self Storage"
 url: /sicklerville/economy-self-storage/
-shop: Mieten
+shop: storage rental
 ---

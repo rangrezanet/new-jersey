@@ -1,5 +1,5 @@
 ---
 title: "Acme"
 url: /barnegat/acme/
-shop: Supermarkt
+shop: supermarket
 ---

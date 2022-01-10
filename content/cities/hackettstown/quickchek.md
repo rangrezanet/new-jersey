@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /hackettstown/quickchek/
-shop: Lebensmittel
+shop: convenience
 ---

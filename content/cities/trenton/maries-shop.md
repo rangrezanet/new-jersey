@@ -1,5 +1,5 @@
 ---
 title: "Marie's Shop"
 url: /trenton/maries-shop/
-shop: Kleidung
+shop: clothes
 ---

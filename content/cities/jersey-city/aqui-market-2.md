@@ -1,5 +1,5 @@
 ---
 title: "Aquí MARKET"
 url: /jersey-city/aqui-market-2/
-shop: Supermarkt
+shop: supermarket
 ---

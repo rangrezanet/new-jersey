@@ -1,5 +1,5 @@
 ---
 title: "Shop-Rite"
 url: /west-berlin/shop-rite/
-shop: Supermarkt
+shop: supermarket
 ---

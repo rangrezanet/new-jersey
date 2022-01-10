@@ -1,5 +1,5 @@
 ---
 title: "Erlton Bicylce Shop"
 url: /cherry-hill/erlton-bicylce-shop/
-shop: Fahrrad
+shop: bicycle
 ---

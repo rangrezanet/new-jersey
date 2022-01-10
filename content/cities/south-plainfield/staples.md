@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /south-plainfield/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reynolds Garden Shop"
 url: /manahawkin/reynolds-garden-shop/
-shop: Garten-Center
+shop: garden centre
 ---

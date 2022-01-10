@@ -1,5 +1,5 @@
 ---
 title: "Gifted"
 url: /robbinsville-township/gifted/
-shop: Andenken
+shop: gift
 ---

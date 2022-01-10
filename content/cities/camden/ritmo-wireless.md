@@ -1,5 +1,5 @@
 ---
 title: "Ritmo Wireless"
 url: /camden/ritmo-wireless/
-shop: Handy
+shop: mobile phone
 ---

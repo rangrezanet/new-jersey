@@ -1,5 +1,5 @@
 ---
 title: "Havis Jewelry"
 url: /trenton/havis-jewelry/
-shop: Schmuck
+shop: jewelry
 ---

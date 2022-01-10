@@ -1,5 +1,5 @@
 ---
 title: "Eurica Home"
 url: /wyckoff/eurica-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

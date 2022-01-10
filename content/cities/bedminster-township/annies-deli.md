@@ -1,5 +1,5 @@
 ---
 title: "Annie's Deli"
 url: /bedminster-township/annies-deli/
-shop: Feinkost
+shop: deli
 ---

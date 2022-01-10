@@ -1,5 +1,5 @@
 ---
 title: "Marjam"
 url: /pleasantville/marjam/
-shop: Großhandel
+shop: wholesale
 ---

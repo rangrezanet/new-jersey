@@ -1,5 +1,5 @@
 ---
 title: "Best Buy"
 url: /rockaway/best-buy/
-shop: Elektronik
+shop: electronics
 ---

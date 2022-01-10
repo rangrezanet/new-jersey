@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /sewell/target/
-shop: Warenhaus
+shop: department store
 ---

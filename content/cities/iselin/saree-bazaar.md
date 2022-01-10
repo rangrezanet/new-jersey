@@ -1,5 +1,5 @@
 ---
 title: "Saree Bazaar"
 url: /iselin/saree-bazaar/
-shop: Kleidung
+shop: clothes
 ---

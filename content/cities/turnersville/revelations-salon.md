@@ -1,5 +1,5 @@
 ---
 title: "Revelations Salon"
 url: /turnersville/revelations-salon/
-shop: Kosmetik
+shop: beauty
 ---

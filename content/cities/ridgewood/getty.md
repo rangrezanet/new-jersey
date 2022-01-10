@@ -1,5 +1,5 @@
 ---
 title: "Getty"
 url: /ridgewood/getty/
-shop: Lebensmittel
+shop: convenience
 ---

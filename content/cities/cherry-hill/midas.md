@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /cherry-hill/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

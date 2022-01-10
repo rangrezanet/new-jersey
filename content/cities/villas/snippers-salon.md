@@ -1,5 +1,5 @@
 ---
 title: "Snippers Salon"
 url: /villas/snippers-salon/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nail Tek"
 url: /jersey-city/nail-tek/
-shop: Kosmetik
+shop: beauty
 ---

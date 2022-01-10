@@ -1,5 +1,5 @@
 ---
 title: "Duran Mini Market"
 url: /trenton/duran-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

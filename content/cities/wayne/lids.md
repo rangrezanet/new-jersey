@@ -1,5 +1,5 @@
 ---
 title: "Lids"
 url: /wayne/lids/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Staples"
 url: /parsippany/staples/
-shop: Schreibwaren
+shop: office supplies
 ---

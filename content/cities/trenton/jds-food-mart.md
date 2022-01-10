@@ -1,5 +1,5 @@
 ---
 title: "JD's Food Mart"
 url: /trenton/jds-food-mart/
-shop: Lebensmittel
+shop: convenience
 ---

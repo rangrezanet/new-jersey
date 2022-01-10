@@ -1,5 +1,5 @@
 ---
 title: "Frontier Firewood"
 url: /highlands/frontier-firewood/
-shop: Pyrotechnik
+shop: pyrotechnics
 ---

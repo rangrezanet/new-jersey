@@ -1,5 +1,5 @@
 ---
 title: "Marybella Beauty Salon"
 url: /trenton/marybella-beauty-salon/
-shop: Friseur
+shop: hairdresser
 ---

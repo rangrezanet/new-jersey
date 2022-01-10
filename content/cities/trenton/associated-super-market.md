@@ -1,5 +1,5 @@
 ---
 title: "Associated Super Market"
 url: /trenton/associated-super-market/
-shop: Lebensmittel
+shop: convenience
 ---

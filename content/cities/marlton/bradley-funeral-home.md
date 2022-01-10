@@ -1,5 +1,5 @@
 ---
 title: "Bradley Funeral Home"
 url: /marlton/bradley-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

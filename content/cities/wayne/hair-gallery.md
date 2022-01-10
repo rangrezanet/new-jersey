@@ -1,5 +1,5 @@
 ---
 title: "Hair Gallery"
 url: /wayne/hair-gallery/
-shop: Friseur
+shop: hairdresser
 ---

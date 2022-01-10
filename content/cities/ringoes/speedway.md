@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /ringoes/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

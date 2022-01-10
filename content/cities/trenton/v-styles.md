@@ -1,5 +1,5 @@
 ---
 title: "V-Styles"
 url: /trenton/v-styles/
-shop: Friseur
+shop: hairdresser
 ---

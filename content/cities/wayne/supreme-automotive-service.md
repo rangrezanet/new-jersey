@@ -1,5 +1,5 @@
 ---
 title: "Supreme Automotive Service"
 url: /wayne/supreme-automotive-service/
-shop: Autowerkstatt
+shop: car repair
 ---

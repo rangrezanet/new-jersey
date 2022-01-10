@@ -1,5 +1,5 @@
 ---
 title: "Laundry Store"
 url: /parsippany/laundry-store/
-shop: Wäscherei
+shop: laundry
 ---

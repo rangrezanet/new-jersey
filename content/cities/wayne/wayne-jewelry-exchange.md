@@ -1,5 +1,5 @@
 ---
 title: "Wayne Jewelry Exchange"
 url: /wayne/wayne-jewelry-exchange/
-shop: Schmuck
+shop: jewelry
 ---

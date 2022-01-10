@@ -1,5 +1,5 @@
 ---
 title: "Visionworks"
 url: /marlton/visionworks/
-shop: Optiker
+shop: optician
 ---

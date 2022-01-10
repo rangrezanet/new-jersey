@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /blackwood/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

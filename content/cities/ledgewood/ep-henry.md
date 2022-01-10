@@ -1,5 +1,5 @@
 ---
 title: "EP Henry"
 url: /ledgewood/ep-henry/
-shop: Garten-Center
+shop: garden centre
 ---

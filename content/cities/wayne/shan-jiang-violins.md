@@ -1,5 +1,5 @@
 ---
 title: "SHAN JIANG VIOLINS"
 url: /wayne/shan-jiang-violins/
-shop: Instrumente
+shop: musical instrument
 ---

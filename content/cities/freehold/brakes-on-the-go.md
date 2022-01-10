@@ -1,5 +1,5 @@
 ---
 title: "Brakes On The Go"
 url: /freehold/brakes-on-the-go/
-shop: Autowerkstatt
+shop: car repair
 ---

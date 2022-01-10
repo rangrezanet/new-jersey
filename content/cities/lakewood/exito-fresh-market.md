@@ -1,5 +1,5 @@
 ---
 title: "Exito Fresh Market"
 url: /lakewood/exito-fresh-market/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TL Auto Body Repair"
 url: /camden/tl-auto-body-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

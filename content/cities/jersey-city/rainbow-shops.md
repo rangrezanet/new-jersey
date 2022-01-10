@@ -1,5 +1,5 @@
 ---
 title: "Rainbow Shops"
 url: /jersey-city/rainbow-shops/
-shop: Warenhaus
+shop: department store
 ---

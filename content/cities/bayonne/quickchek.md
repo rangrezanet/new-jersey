@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /bayonne/quickchek/
-shop: Lebensmittel
+shop: convenience
 ---

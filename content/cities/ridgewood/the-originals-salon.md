@@ -1,5 +1,5 @@
 ---
 title: "The Originals Salon"
 url: /ridgewood/the-originals-salon/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gruerio Funeral Home"
 url: /trenton/gruerio-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

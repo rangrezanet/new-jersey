@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /bayville/quickchek/
-shop: Lebensmittel
+shop: convenience
 ---

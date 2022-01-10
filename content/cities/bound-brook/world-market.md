@@ -1,5 +1,5 @@
 ---
 title: "World Market"
 url: /bound-brook/world-market/
-shop: Raumausstattung
+shop: interior decoration
 ---

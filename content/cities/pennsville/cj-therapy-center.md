@@ -1,5 +1,5 @@
 ---
 title: "CJ Therapy Center"
 url: /pennsville/cj-therapy-center/
-shop: Massage
+shop: massage
 ---

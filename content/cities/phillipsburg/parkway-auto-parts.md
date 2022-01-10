@@ -1,5 +1,5 @@
 ---
 title: "Parkway Auto Parts"
 url: /phillipsburg/parkway-auto-parts/
-shop: Autoteile
+shop: car parts
 ---

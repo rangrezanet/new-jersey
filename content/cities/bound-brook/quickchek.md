@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /bound-brook/quickchek/
-shop: Lebensmittel
+shop: convenience
 ---

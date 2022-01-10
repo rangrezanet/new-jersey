@@ -1,5 +1,5 @@
 ---
 title: "Giant Mini Market"
 url: /trenton/giant-mini-market/
-shop: Lebensmittel
+shop: convenience
 ---

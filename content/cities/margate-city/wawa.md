@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /margate-city/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

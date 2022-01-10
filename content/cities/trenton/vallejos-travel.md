@@ -1,5 +1,5 @@
 ---
 title: "Vallejo's Travel"
 url: /trenton/vallejos-travel/
-shop: Reisebüro
+shop: travel agency
 ---

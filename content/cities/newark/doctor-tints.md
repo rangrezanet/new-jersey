@@ -1,5 +1,5 @@
 ---
 title: "Doctor Tints"
 url: /newark/doctor-tints/
-shop: Autowerkstatt
+shop: car repair
 ---

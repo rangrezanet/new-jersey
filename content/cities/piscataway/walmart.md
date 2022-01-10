@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /piscataway/walmart/
-shop: Warenhaus
+shop: department store
 ---

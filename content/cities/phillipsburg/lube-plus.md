@@ -1,5 +1,5 @@
 ---
 title: "Lube Plus"
 url: /phillipsburg/lube-plus/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Stop One Minimarket"
 url: /trenton/stop-one-minimarket/
-shop: Lebensmittel
+shop: convenience
 ---

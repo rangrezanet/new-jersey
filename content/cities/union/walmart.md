@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /union/walmart/
-shop: Warenhaus
+shop: department store
 ---

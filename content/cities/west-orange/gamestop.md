@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
 url: /west-orange/gamestop/
-shop: Videospiele
+shop: video games
 ---

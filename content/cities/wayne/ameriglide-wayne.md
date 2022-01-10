@@ -1,5 +1,5 @@
 ---
 title: "AmeriGlide Wayne"
 url: /wayne/ameriglide-wayne/
-shop: Allgemein
+shop: shop
 ---

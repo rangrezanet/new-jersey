@@ -1,5 +1,5 @@
 ---
 title: "Dry Stacker"
 url: /wayne/dry-stacker/
-shop: Lampen
+shop: lamps
 ---

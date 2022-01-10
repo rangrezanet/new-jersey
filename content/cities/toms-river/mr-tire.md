@@ -1,5 +1,5 @@
 ---
 title: "Mr. Tire"
 url: /toms-river/mr-tire/
-shop: Reifen
+shop: tyres
 ---

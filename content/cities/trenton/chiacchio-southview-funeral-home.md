@@ -1,5 +1,5 @@
 ---
 title: "Chiacchio Southview Funeral Home"
 url: /trenton/chiacchio-southview-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

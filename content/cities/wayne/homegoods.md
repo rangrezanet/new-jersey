@@ -1,5 +1,5 @@
 ---
 title: "HomeGoods"
 url: /wayne/homegoods/
-shop: Haushaltsartikel
+shop: houseware
 ---

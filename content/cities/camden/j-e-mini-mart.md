@@ -1,5 +1,5 @@
 ---
 title: "J E Mini Mart"
 url: /camden/j-e-mini-mart/
-shop: Lebensmittel
+shop: convenience
 ---

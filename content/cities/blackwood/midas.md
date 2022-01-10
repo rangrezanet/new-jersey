@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /blackwood/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

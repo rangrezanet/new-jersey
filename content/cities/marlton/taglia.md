@@ -1,5 +1,5 @@
 ---
 title: "Taglia"
 url: /marlton/taglia/
-shop: Kosmetik
+shop: beauty
 ---

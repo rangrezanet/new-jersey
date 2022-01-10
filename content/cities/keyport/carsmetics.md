@@ -1,5 +1,5 @@
 ---
 title: "Carsmetics"
 url: /keyport/carsmetics/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Figueredo Auto Repair"
 url: /union-city/figueredo-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "The Fresh Market"
 url: /bedminster-township/the-fresh-market/
-shop: Supermarkt
+shop: supermarket
 ---

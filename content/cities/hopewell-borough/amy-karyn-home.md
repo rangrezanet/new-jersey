@@ -1,5 +1,5 @@
 ---
 title: "Amy Karyn Home"
 url: /hopewell-borough/amy-karyn-home/
-shop: Raumausstattung
+shop: interior decoration
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elena Hair Studio"
 url: /camden/elena-hair-studio/
-shop: Friseur
+shop: hairdresser
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Meineke"
 url: /blackwood/meineke/
-shop: Autowerkstatt
+shop: car repair
 ---

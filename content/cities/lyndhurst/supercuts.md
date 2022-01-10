@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /lyndhurst/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

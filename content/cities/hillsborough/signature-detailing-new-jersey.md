@@ -1,5 +1,5 @@
 ---
 title: "Signature Detailing New Jersey"
 url: /hillsborough/signature-detailing-new-jersey/
-shop: Autowerkstatt
+shop: car repair
 ---

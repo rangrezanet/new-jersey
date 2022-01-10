@@ -1,5 +1,5 @@
 ---
 title: "Dominican Barber Shop"
 url: /paterson/dominican-barber-shop/
-shop: Friseur
+shop: hairdresser
 ---

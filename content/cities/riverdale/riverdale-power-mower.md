@@ -1,5 +1,5 @@
 ---
 title: "Riverdale Power Mower"
 url: /riverdale/riverdale-power-mower/
-shop: Dorfladen
+shop: general
 ---

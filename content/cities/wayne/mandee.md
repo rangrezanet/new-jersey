@@ -1,5 +1,5 @@
 ---
 title: "Mandee"
 url: /wayne/mandee/
-shop: Kleidung
+shop: clothes
 ---

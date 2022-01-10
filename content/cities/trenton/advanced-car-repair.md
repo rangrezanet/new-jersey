@@ -1,5 +1,5 @@
 ---
 title: "Advanced Car Repair"
 url: /trenton/advanced-car-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

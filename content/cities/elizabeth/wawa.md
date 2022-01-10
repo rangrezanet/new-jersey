@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /elizabeth/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

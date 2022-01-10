@@ -1,5 +1,5 @@
 ---
 title: "Jesenia Grocery"
 url: /camden/jesenia-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

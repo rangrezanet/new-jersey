@@ -1,5 +1,5 @@
 ---
 title: "Forgiveness Boutique"
 url: /wayne/forgiveness-boutique/
-shop: Modehaus
+shop: boutique
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sogno Toscano"
 url: /north-bergen/sogno-toscano/
-shop: Großhandel
+shop: wholesale
 ---

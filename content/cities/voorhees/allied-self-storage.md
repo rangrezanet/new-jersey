@@ -1,5 +1,5 @@
 ---
 title: "Allied Self Storage"
 url: /voorhees/allied-self-storage/
-shop: Mieten
+shop: storage rental
 ---

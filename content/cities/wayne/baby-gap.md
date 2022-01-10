@@ -1,5 +1,5 @@
 ---
 title: "Baby Gap"
 url: /wayne/baby-gap/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Walmart Supercenter"
 url: /little-egg-harbor/walmart-supercenter/
-shop: Supermarkt
+shop: supermarket
 ---

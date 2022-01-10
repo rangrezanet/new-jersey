@@ -1,5 +1,5 @@
 ---
 title: "Lynk Computers"
 url: /cherry-hill/lynk-computers/
-shop: Computer
+shop: computer
 ---

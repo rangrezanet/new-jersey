@@ -1,5 +1,5 @@
 ---
 title: "Bienvenido's Deli"
 url: /waldwick/bienvenidos-deli/
-shop: Feinkost
+shop: deli
 ---

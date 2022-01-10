@@ -1,5 +1,5 @@
 ---
 title: "Village Medical Supply"
 url: /clifton/village-medical-supply/
-shop: Sanitätshaus
+shop: medical supply
 ---

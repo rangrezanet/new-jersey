@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /north-bergen/target/
-shop: Warenhaus
+shop: department store
 ---

@@ -1,5 +1,5 @@
 ---
 title: "George's Auto Repair"
 url: /cape-may/georges-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

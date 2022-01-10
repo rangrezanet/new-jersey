@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /rockaway/target/
-shop: Warenhaus
+shop: department store
 ---

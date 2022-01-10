@@ -1,5 +1,5 @@
 ---
 title: "Liquor Saver"
 url: /raritan/liquor-saver/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "All Shore Printing"
 url: /avon-by-the-sea/all-shore-printing/
-shop: Kleidung
+shop: clothes
 ---

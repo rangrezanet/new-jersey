@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /turnersville/audi/
-shop: Autohaus
+shop: car
 ---

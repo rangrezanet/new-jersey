@@ -1,5 +1,5 @@
 ---
 title: "Lighthouse Christian Store"
 url: /wayne/lighthouse-christian-store/
-shop: Religion
+shop: religion
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Reinhold's Quality Bakery"
 url: /waldwick/reinholds-quality-bakery/
-shop: Bäckerei
+shop: bakery
 ---

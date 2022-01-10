@@ -1,5 +1,5 @@
 ---
 title: "Sunglass Hut"
 url: /wayne/sunglass-hut/
-shop: Optiker
+shop: optician
 ---

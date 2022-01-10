@@ -1,5 +1,5 @@
 ---
 title: "Trenton Hot Rod Shop"
 url: /trenton/trenton-hot-rod-shop/
-shop: Autowerkstatt
+shop: car repair
 ---

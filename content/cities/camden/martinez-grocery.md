@@ -1,5 +1,5 @@
 ---
 title: "Martinez Grocery"
 url: /camden/martinez-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

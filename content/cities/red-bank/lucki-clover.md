@@ -1,5 +1,5 @@
 ---
 title: "Lucki Clover"
 url: /red-bank/lucki-clover/
-shop: Kleidung
+shop: clothes
 ---

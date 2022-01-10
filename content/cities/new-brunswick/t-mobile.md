@@ -1,5 +1,5 @@
 ---
 title: "T-Mobile"
 url: /new-brunswick/t-mobile/
-shop: Handy
+shop: mobile phone
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sawyer's Liquor Store"
 url: /beachwood/sawyers-liquor-store/
-shop: Spirituosen
+shop: alcohol
 ---

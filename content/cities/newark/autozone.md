@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
 url: /newark/autozone/
-shop: Autoteile
+shop: car parts
 ---

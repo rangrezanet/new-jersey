@@ -1,5 +1,5 @@
 ---
 title: "Platino Mobile"
 url: /trenton/platino-mobile/
-shop: Handy
+shop: mobile phone
 ---

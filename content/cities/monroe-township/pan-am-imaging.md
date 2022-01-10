@@ -1,5 +1,5 @@
 ---
 title: "Pan Am Imaging"
 url: /monroe-township/pan-am-imaging/
-shop: Sanitätshaus
+shop: medical supply
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Platt's Funeral Home"
 url: /cherry-hill-township/platts-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

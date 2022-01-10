@@ -1,5 +1,5 @@
 ---
 title: "Lankenau Funeral Homes"
 url: /pemberton/lankenau-funeral-homes/
-shop: Bestattungen
+shop: funeral directors
 ---

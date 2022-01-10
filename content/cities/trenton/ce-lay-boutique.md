@@ -1,5 +1,5 @@
 ---
 title: "Ce' Lay Boutique"
 url: /trenton/ce-lay-boutique/
-shop: Kleidung
+shop: clothes
 ---

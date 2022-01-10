@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /brick/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

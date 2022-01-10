@@ -1,5 +1,5 @@
 ---
 title: "Marrazzo's Thriftway"
 url: /ewing/marrazzos-thriftway/
-shop: Supermarkt
+shop: supermarket
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sola Salons"
 url: /wayne/sola-salons/
-shop: Kosmetik
+shop: beauty
 ---

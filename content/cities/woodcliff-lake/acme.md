@@ -1,5 +1,5 @@
 ---
 title: "ACME"
 url: /woodcliff-lake/acme/
-shop: Supermarkt
+shop: supermarket
 ---

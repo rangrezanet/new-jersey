@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
 url: /edison/speedway/
-shop: Lebensmittel
+shop: convenience
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Frank's Auto Body"
 url: /camden/franks-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

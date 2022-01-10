@@ -1,5 +1,5 @@
 ---
 title: "Northeast Collision Inc."
 url: /plainfield/northeast-collision-inc/
-shop: Autowerkstatt
+shop: car repair
 ---

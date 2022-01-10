@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
 url: /manville/quickchek/
-shop: Lebensmittel
+shop: convenience
 ---

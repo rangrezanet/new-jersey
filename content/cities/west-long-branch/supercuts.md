@@ -1,5 +1,5 @@
 ---
 title: "Supercuts"
 url: /west-long-branch/supercuts/
-shop: Friseur
+shop: hairdresser
 ---

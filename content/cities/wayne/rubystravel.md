@@ -1,5 +1,5 @@
 ---
 title: "RubysTravel"
 url: /wayne/rubystravel/
-shop: Reisebüro
+shop: travel agency
 ---

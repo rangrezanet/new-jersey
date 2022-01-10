@@ -1,5 +1,5 @@
 ---
 title: "onaantiques.com"
 url: /wayne/onaantiques-com/
-shop: Antiquitäten
+shop: antiques
 ---

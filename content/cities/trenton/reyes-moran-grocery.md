@@ -1,5 +1,5 @@
 ---
 title: "Reyes Moran Grocery"
 url: /trenton/reyes-moran-grocery/
-shop: Lebensmittel
+shop: convenience
 ---

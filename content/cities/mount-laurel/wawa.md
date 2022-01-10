@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /mount-laurel/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

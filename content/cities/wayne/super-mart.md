@@ -1,5 +1,5 @@
 ---
 title: "Super Mart"
 url: /wayne/super-mart/
-shop: Lebensmittel
+shop: convenience
 ---

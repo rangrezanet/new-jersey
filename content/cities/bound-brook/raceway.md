@@ -1,5 +1,5 @@
 ---
 title: "RaceWay"
 url: /bound-brook/raceway/
-shop: Lebensmittel
+shop: convenience
 ---

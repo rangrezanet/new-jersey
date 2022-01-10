@@ -1,5 +1,5 @@
 ---
 title: "Lamberton Liquors"
 url: /trenton/lamberton-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Printing Plus"
 url: /west-berlin/printing-plus/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Volvo Cars Ramsey"
 url: /ramsey/volvo-cars-ramsey/
-shop: Autohaus
+shop: car
 ---

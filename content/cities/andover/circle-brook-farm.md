@@ -1,5 +1,5 @@
 ---
 title: "Circle Brook Farm"
 url: /andover/circle-brook-farm/
-shop: Hofladen
+shop: farm
 ---

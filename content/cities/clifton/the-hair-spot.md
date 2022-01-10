@@ -1,5 +1,5 @@
 ---
 title: "The Hair Spot"
 url: /clifton/the-hair-spot/
-shop: Friseur
+shop: hairdresser
 ---

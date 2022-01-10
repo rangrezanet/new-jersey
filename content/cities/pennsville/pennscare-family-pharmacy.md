@@ -1,5 +1,5 @@
 ---
 title: "Pennscare Family Pharmacy"
 url: /pennsville/pennscare-family-pharmacy/
-shop: Drogerie
+shop: chemist
 ---

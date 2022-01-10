@@ -1,5 +1,5 @@
 ---
 title: "Self Storage"
 url: /wayne/self-storage/
-shop: Mieten
+shop: storage rental
 ---

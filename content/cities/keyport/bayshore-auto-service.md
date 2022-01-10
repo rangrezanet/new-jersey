@@ -1,5 +1,5 @@
 ---
 title: "Bayshore Auto Service"
 url: /keyport/bayshore-auto-service/
-shop: Autowerkstatt
+shop: car repair
 ---

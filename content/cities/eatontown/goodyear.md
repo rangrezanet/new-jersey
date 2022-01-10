@@ -1,5 +1,5 @@
 ---
 title: "Goodyear"
 url: /eatontown/goodyear/
-shop: Autowerkstatt
+shop: car repair
 ---

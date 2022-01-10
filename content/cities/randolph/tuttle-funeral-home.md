@@ -1,5 +1,5 @@
 ---
 title: "Tuttle funeral home"
 url: /randolph/tuttle-funeral-home/
-shop: Bestattungen
+shop: funeral directors
 ---

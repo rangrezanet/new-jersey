@@ -1,5 +1,5 @@
 ---
 title: "Rite Aid"
 url: /trenton/rite-aid/
-shop: Drogerie
+shop: chemist
 ---

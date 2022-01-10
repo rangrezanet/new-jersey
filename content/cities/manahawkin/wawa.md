@@ -1,5 +1,5 @@
 ---
 title: "Wawa"
 url: /manahawkin/wawa/
-shop: Lebensmittel
+shop: convenience
 ---

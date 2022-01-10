@@ -1,5 +1,5 @@
 ---
 title: "Goodwill"
 url: /pennsauken-township/goodwill/
-shop: Gebrauchtwaren
+shop: charity
 ---

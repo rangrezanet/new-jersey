@@ -1,5 +1,5 @@
 ---
 title: "Kim's Bike Shop"
 url: /new-brunswick/kims-bike-shop/
-shop: Fahrrad
+shop: bicycle
 ---

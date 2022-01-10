@@ -1,5 +1,5 @@
 ---
 title: "Visual Miracles"
 url: /wayne/visual-miracles/
-shop: Kleidung
+shop: clothes
 ---

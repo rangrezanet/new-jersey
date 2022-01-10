@@ -1,5 +1,5 @@
 ---
 title: "Scott's Florist"
 url: /raritan/scotts-florist/
-shop: Blumen
+shop: florist
 ---

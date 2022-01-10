@@ -1,5 +1,5 @@
 ---
 title: "New Family Liquors"
 url: /trenton/new-family-liquors/
-shop: Spirituosen
+shop: alcohol
 ---

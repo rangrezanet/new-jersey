@@ -1,5 +1,5 @@
 ---
 title: "Discount Auto Repair"
 url: /camden/discount-auto-repair/
-shop: Autowerkstatt
+shop: car repair
 ---

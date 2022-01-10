@@ -1,5 +1,5 @@
 ---
 title: "Biltmore Tuxedos"
 url: /ridgewood/biltmore-tuxedos/
-shop: Kleidung
+shop: clothes
 ---

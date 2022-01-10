@@ -1,5 +1,5 @@
 ---
 title: "Venus Nails"
 url: /gibbsboro/venus-nails/
-shop: Kosmetik
+shop: beauty
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mena Super Market"
 url: /trenton/mena-super-market/
-shop: Lebensmittel
+shop: convenience
 ---

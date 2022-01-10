@@ -1,5 +1,5 @@
 ---
 title: "Warehouse Service"
 url: /camden/warehouse-service/
-shop: Mieten
+shop: storage rental
 ---
