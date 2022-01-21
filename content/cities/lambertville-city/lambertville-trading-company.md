@@ -1,5 +1,5 @@
 ---
 title: "Lambertville Trading Company"
-url: /lambertville/lambertville-trading-company/
+url: /lambertville-city/lambertville-trading-company/
 shop: coffee
 ---

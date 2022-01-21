@@ -1,6 +1,6 @@
 ---
 title: Woodbridge
 url: /woodbridge/
-latitude: 40.546
-longitude: -74.292
+latitude: 40.569
+longitude: -74.294
 ---

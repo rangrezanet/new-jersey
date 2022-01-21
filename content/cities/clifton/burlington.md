@@ -1,5 +1,5 @@
 ---
 title: "Burlington"
-url: /hazlet-township/burlington/
+url: /clifton/burlington/
 shop: department store
 ---

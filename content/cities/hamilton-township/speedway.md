@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /trenton/speedway/
+url: /hamilton-township/speedway/
 shop: convenience
 ---
