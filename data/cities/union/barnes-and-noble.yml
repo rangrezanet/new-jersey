@@ -7,5 +7,5 @@ city: Union
 street: "Morris Avenue"
 housenumber: 1040
 phone: "908-737-4940"
-opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-17:00; Sa 09:00-14:00"
+opening_hours: "Mo-Th 09:00-19:00; Fr 09:00-17:00; Sa 09:00-14:00; Su Closed"
 website: "https://kean.bncollege.com/"
