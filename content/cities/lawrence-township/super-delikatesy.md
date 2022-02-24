@@ -1,5 +1,5 @@
 ---
 title: "Super Delikatesy"
-url: /trenton/super-delikatesy/
+url: /lawrence-township/super-delikatesy/
 shop: deli
 ---

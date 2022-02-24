@@ -1,5 +1,5 @@
 ---
 title: "Cade Motor Company"
-url: /lawrence-twp/cade-motor-company/
+url: /lawrence-township/cade-motor-company/
 shop: car
 ---

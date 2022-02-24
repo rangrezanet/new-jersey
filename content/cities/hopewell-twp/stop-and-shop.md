@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /pennington/stop-and-shop/
+url: /hopewell-twp/stop-and-shop/
 shop: supermarket
 ---
