@@ -1,6 +1,6 @@
 ---
 title: New Providence
 url: /new-providence/
-latitude: 40.705
-longitude: -74.404
+latitude: 40.701
+longitude: -74.4
 ---

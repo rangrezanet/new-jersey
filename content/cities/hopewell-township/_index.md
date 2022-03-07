@@ -1,6 +1,6 @@
 ---
 title: Hopewell Township
 url: /hopewell-township/
-latitude: 40.309
-longitude: -74.788
+latitude: 40.338
+longitude: -74.809
 ---

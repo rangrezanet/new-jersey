@@ -1,6 +1,6 @@
 ---
 title: Pennington
 url: /pennington/
-latitude: 40.338
-longitude: -74.809
+latitude: 40.357
+longitude: -74.798
 ---
