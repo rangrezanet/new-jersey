@@ -1,6 +1,6 @@
 ---
 title: West Milford
 url: /west-milford/
-latitude: 41.085
-longitude: -74.374
+latitude: 41.131
+longitude: -74.367
 ---
