@@ -1,6 +1,6 @@
 ---
 title: Cedar Knolls
 url: /cedar-knolls/
-latitude: 40.814
-longitude: -74.469
+latitude: 40.81
+longitude: -74.464
 ---
