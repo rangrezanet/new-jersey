@@ -1,6 +1,6 @@
 ---
 title: Belvidere
 url: /belvidere/
-latitude: 40.831
-longitude: -75.071
+latitude: 40.83
+longitude: -75.079
 ---

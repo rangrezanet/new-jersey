@@ -7,5 +7,5 @@ city: Sayreville
 street: "Main Street"
 housenumber: 881
 phone: "732-525-2660"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-17:00; Su 09:00-13:00"
+opening_hours: "Mo 07:00-16:00; Tu 07:00-15:00, 17:00-19:00; We 07:00-16:00; Th 07:00-15:00, 17:00-19:00; Fr 07:00-16:00; Sa 08:00-15:00"
 website: ""
