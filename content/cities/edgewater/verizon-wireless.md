@@ -1,5 +1,5 @@
 ---
 title: "Verizon Wireless"
-url: /lincoln-park/verizon-wireless/
+url: /edgewater/verizon-wireless/
 shop: mobile phone
 ---
