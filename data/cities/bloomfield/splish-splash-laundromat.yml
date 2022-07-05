@@ -1,11 +1,11 @@
-id: 693441026
-type: way
-latitude: 40.80919
-longitude: -74.19296
+id: 9860810842
+type: node
+latitude: 40.8092
+longitude: -74.19278
 postcode: "07003"
 city: Bloomfield
 street: "Broad Street"
 housenumber: 456
-phone: "973-259-1212"
-opening_hours: ""
-website: ""
+phone: "+19732591212"
+opening_hours: "Mo-Su 07:00-20:00"
+website: "https://splish-splash-bloomfield.edan.io/"
