@@ -1,6 +1,6 @@
 ---
 title: Howell Township
 url: /howell-township/
-latitude: 40.122
-longitude: -74.145
+latitude: 40.114
+longitude: -74.219
 ---
