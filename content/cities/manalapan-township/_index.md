@@ -1,6 +1,6 @@
 ---
 title: Manalapan Township
 url: /manalapan-township/
-latitude: 40.29
-longitude: -74.299
+latitude: 40.314
+longitude: -74.36
 ---
