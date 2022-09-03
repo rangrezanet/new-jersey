@@ -1,6 +1,6 @@
 ---
 title: Midland Park
 url: /midland-park/
-latitude: 40.994
-longitude: -74.128
+latitude: 40.989
+longitude: -74.14
 ---
