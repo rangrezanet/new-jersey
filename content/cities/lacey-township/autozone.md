@@ -1,5 +1,5 @@
 ---
 title: "AutoZone"
-url: /lanoka-harbor/autozone/
+url: /lacey-township/autozone/
 shop: car parts
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mavis Discount Tire"
-url: /lanoka-harbor/mavis-discount-tire/
+url: /lacey-township/mavis-discount-tire/
 shop: tyres
 ---
