@@ -1,5 +1,5 @@
 ---
-title: "BJ'S Wholesale Club"
+title: "BJ's Wholesale Club"
 url: /ledgewood/bjs-wholesale-club/
-shop: department store
+shop: wholesale
 ---
