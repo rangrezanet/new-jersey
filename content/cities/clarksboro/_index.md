@@ -1,6 +1,6 @@
 ---
 title: Clarksboro
 url: /clarksboro/
-latitude: 39.82
-longitude: -75.235
+latitude: 39.817
+longitude: -75.232
 ---
