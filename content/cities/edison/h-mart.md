@@ -1,5 +1,5 @@
 ---
-title: "H-Mart"
+title: "H Mart"
 url: /edison/h-mart/
 shop: supermarket
 ---

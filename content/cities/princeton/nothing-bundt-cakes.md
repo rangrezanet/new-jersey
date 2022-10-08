@@ -1,5 +1,5 @@
 ---
 title: "Nothing Bundt Cakes"
-url: /north-brunswick/nothing-bundt-cakes/
+url: /princeton/nothing-bundt-cakes/
 shop: pastry
 ---
