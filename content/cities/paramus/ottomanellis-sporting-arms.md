@@ -1,5 +1,5 @@
 ---
 title: "Ottomanelli's Sporting Arms"
-url: /woodland-park/ottomanellis-sporting-arms/
+url: /paramus/ottomanellis-sporting-arms/
 shop: weapons
 ---
