@@ -1,6 +1,6 @@
 ---
 title: Leonia
 url: /leonia/
-latitude: 40.865
-longitude: -73.986
+latitude: 40.861
+longitude: -73.988
 ---
