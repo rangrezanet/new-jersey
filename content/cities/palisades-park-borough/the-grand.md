@@ -1,5 +1,5 @@
 ---
 title: "The Grand"
-url: /palisades-park/the-grand/
+url: /palisades-park-borough/the-grand/
 shop: supermarket
 ---
