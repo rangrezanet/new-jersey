@@ -1,6 +1,6 @@
 ---
 title: Cedar Grove
 url: /cedar-grove/
-latitude: 40.85
-longitude: -74.229
+latitude: 40.853
+longitude: -74.23
 ---

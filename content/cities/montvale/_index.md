@@ -1,6 +1,6 @@
 ---
 title: Montvale
 url: /montvale/
-latitude: 41.051
-longitude: -74.059
+latitude: 41.041
+longitude: -74.03
 ---
