@@ -1,6 +1,6 @@
 ---
 title: Mantua
 url: /mantua/
-latitude: 39.793
-longitude: -75.175
+latitude: 39.794
+longitude: -75.172
 ---
