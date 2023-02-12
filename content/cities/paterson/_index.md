@@ -1,6 +1,6 @@
 ---
 title: Paterson
 url: /paterson/
-latitude: 40.919
-longitude: -74.176
+latitude: 40.916
+longitude: -74.173
 ---
