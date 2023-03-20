@@ -1,5 +1,5 @@
 ---
 title: "Stop & Shop"
-url: /dayton/stop-and-shop/
+url: /franklin-park/stop-and-shop/
 shop: supermarket
 ---
