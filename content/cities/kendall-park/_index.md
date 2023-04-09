@@ -1,6 +1,6 @@
 ---
 title: Kendall Park
 url: /kendall-park/
-latitude: 40.437
-longitude: -74.539
+latitude: 40.418
+longitude: -74.585
 ---
