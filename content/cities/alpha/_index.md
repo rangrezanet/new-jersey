@@ -1,6 +1,6 @@
 ---
 title: Alpha
 url: /alpha/
-latitude: 40.666
-longitude: -75.158
+latitude: 40.659
+longitude: -75.156
 ---
