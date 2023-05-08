@@ -1,6 +1,6 @@
 ---
 title: Waldwick
 url: /waldwick/
-latitude: 41.011
-longitude: -74.119
+latitude: 41.018
+longitude: -74.122
 ---
