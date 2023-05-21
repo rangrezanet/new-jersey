@@ -1,6 +1,6 @@
 ---
 title: Raritan
 url: /raritan/
-latitude: 40.569
-longitude: -74.635
+latitude: 40.566
+longitude: -74.632
 ---

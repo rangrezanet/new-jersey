@@ -1,5 +1,5 @@
 ---
 title: "RH Outlet"
-url: /lawrence-twp/rh-outlet/
+url: /lawrence-township/rh-outlet/
 shop: furniture
 ---
