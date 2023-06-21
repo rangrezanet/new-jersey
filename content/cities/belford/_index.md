@@ -1,6 +1,6 @@
 ---
 title: Belford
 url: /belford/
-latitude: 40.421
-longitude: -74.092
+latitude: 40.414
+longitude: -74.095
 ---
