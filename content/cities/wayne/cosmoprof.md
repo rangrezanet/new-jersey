@@ -1,5 +1,5 @@
 ---
 title: "CosmoProf"
 url: /wayne/cosmoprof/
-shop: beauty
+shop: hairdresser supply
 ---
