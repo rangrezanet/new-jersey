@@ -2,5 +2,5 @@
 title: Maplewood
 url: /maplewood/
 latitude: 40.731
-longitude: -74.277
+longitude: -74.278
 ---
