@@ -1,6 +1,6 @@
 ---
 title: Hazlet Township
 url: /hazlet-township/
-latitude: 40.419
-longitude: -74.177
+latitude: 40.417
+longitude: -74.18
 ---
