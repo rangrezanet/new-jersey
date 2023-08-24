@@ -1,6 +1,6 @@
 ---
 title: Beach Haven
 url: /beach-haven/
-latitude: 39.565
-longitude: -74.239
+latitude: 39.562
+longitude: -74.241
 ---

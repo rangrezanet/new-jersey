@@ -1,6 +1,6 @@
 ---
 title: Shrewsbury
 url: /shrewsbury/
-latitude: 40.315
-longitude: -74.066
+latitude: 40.316
+longitude: -74.061
 ---
