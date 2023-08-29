@@ -1,11 +1,11 @@
 id: 10675909292
 type: node
-latitude: 40.55655
-longitude: -74.29902
+latitude: 40.55645
+longitude: -74.29968
 postcode: "07095"
 city: Woodbridge
-street: ""
-housenumber: 250 Woodbridge Center Drive
-phone: "732-750-1282"
-opening_hours: "Mon - Fri : 11:00AM to 7:00PM, Sat : 10:00AM to 7:00PM, Sun : 11:00AM to 6:00PM"
+street: "Woodbridge Center Drive"
+housenumber: 250
+phone: "+1-732-750-1282"
+opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-19:00; Su 11:00-18:00"
 website: "https://leatherwarehousellc.com"

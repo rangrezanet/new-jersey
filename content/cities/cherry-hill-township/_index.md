@@ -1,6 +1,6 @@
 ---
 title: Cherry Hill Township
 url: /cherry-hill-township/
-latitude: 39.861
-longitude: -74.99
+latitude: 39.924
+longitude: -75.046
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Leather Warehouse LLC"
 url: /woodbridge/leather-warehouse-llc/
-shop: shop
+shop: leather
 ---
