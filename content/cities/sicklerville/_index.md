@@ -1,6 +1,6 @@
 ---
 title: Sicklerville
 url: /sicklerville/
-latitude: 39.75
-longitude: -75.025
+latitude: 39.778
+longitude: -74.987
 ---
