@@ -1,5 +1,5 @@
 ---
 title: "Nisha Nails"
-url: /wayne/nisha-nails/
+url: /wayne/nisha-nails-paterson-hamburg-turnpike/
 shop: beauty
 ---

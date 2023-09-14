@@ -1,5 +1,5 @@
 ---
 title: "GNC"
-url: /wayne/gnc/
+url: /wayne/gnc-paterson-hamburg-turnpike/
 shop: nutrition supplements
 ---

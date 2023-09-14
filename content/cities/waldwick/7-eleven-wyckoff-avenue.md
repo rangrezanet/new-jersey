@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /waldwick/7-eleven/
+url: /waldwick/7-eleven-wyckoff-avenue/
 shop: convenience
 ---

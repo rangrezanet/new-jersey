@@ -1,5 +1,5 @@
 ---
 title: "Speedway"
-url: /linden/speedway/
+url: /linden/speedway-west-saint-georges-avenue/
 shop: convenience
 ---

@@ -1,6 +1,6 @@
 ---
 title: Avenel
 url: /avenel/
-latitude: 40.594
-longitude: -74.273
+latitude: 40.579
+longitude: -74.294
 ---

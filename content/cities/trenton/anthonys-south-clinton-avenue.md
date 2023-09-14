@@ -1,5 +1,5 @@
 ---
 title: "Anthony's"
-url: /trenton/anthonys/
+url: /trenton/anthonys-south-clinton-avenue/
 shop: clothes
 ---

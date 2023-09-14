@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /trenton/aldi/
+url: /trenton/aldi-north-olden-avenue/
 shop: supermarket
 ---

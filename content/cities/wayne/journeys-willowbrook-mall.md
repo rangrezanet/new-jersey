@@ -1,5 +1,5 @@
 ---
 title: "Journeys"
-url: /wayne/journeys/
+url: /wayne/journeys-willowbrook-mall/
 shop: shoes
 ---

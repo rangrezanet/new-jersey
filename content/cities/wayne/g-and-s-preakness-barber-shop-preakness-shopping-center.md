@@ -1,5 +1,5 @@
 ---
 title: "G & S Preakness Barber Shop"
-url: /wayne/g-and-s-preakness-barber-shop/
+url: /wayne/g-and-s-preakness-barber-shop-preakness-shopping-center/
 shop: hairdresser
 ---

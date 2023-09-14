@@ -1,5 +1,5 @@
 ---
 title: "QuickChek"
-url: /bayonne/quickchek/
+url: /bayonne/quickchek-broadway/
 shop: convenience
 ---

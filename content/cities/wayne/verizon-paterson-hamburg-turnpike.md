@@ -1,5 +1,5 @@
 ---
 title: "Verizon"
-url: /wayne/verizon/
+url: /wayne/verizon-paterson-hamburg-turnpike/
 shop: mobile phone
 ---
