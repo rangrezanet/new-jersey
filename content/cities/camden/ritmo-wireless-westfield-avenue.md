@@ -1,5 +1,5 @@
 ---
 title: "Ritmo Wireless"
-url: /camden/ritmo-wireless-federal-street/
+url: /camden/ritmo-wireless-westfield-avenue/
 shop: mobile phone
 ---

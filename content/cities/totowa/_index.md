@@ -1,6 +1,6 @@
 ---
 title: Totowa
 url: /totowa/
-latitude: 40.894
-longitude: -74.231
+latitude: 40.898
+longitude: -74.24
 ---
