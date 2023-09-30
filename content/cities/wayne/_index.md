@@ -1,6 +1,6 @@
 ---
 title: Wayne
 url: /wayne/
-latitude: 40.939
-longitude: -74.271
+latitude: 40.89
+longitude: -74.261
 ---

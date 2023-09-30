@@ -1,5 +1,5 @@
 ---
 title: "Express Auto Repair"
-url: /camden/express-auto-repair-north-27th-street/
+url: /camden/express-auto-repair-marlton-pike/
 shop: car repair
 ---
