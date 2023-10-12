@@ -1,6 +1,6 @@
 ---
 title: Pompton Lakes
 url: /pompton-lakes/
-latitude: 40.992
-longitude: -74.281
+latitude: 41.007
+longitude: -74.292
 ---
