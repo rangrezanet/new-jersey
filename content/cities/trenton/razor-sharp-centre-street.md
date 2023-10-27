@@ -1,5 +1,5 @@
 ---
 title: "Razor Sharp"
-url: /trenton/razor-sharp-maple-avenue/
+url: /trenton/razor-sharp-centre-street/
 shop: hairdresser
 ---
