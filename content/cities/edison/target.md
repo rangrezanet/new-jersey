@@ -1,5 +1,5 @@
 ---
 title: "Target"
-url: /turnersville/target/
+url: /edison/target/
 shop: department store
 ---

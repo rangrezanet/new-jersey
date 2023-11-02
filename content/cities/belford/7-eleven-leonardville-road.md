@@ -1,5 +1,5 @@
 ---
 title: "7-Eleven"
-url: /belford/7-eleven-nj-36/
+url: /belford/7-eleven-leonardville-road/
 shop: convenience
 ---

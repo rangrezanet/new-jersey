@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
-url: /wayne/gamestop-willowbrook-mall/
+url: /wayne/gamestop-nj-23/
 shop: video games
 ---
